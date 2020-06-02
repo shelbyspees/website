@@ -1,7 +1,7 @@
 ---
 title: "LA City Council Budget Letter"
 date: 2020-06-01T22:11:49-07:00
-tags: [losangeles, blacklivesmatter]
+tags: [LosAngeles, BlackLivesMatter]
 ---
 
 Things aren't okay right now, and I've been following the protests and police violence on Twitter all weekend.
