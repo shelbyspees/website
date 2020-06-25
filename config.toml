@@ -8,7 +8,7 @@ paginate = 4 # Set the number of posts to show before overflowing to the next pa
 [[menu.main]]
   identifier = "posts"
   name = "Posts"
-  url = "/"
+  url = "/posts/"
   weight = -1
 
 [[menu.main]]
