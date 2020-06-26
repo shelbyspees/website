@@ -9,7 +9,9 @@ Today I saw some tweets that prompted me to take more local action.
 
 <!--more-->
 
+<br>
 {{< tweet 1267258689615847424 >}}
+<br>
 
 *(Note: Kelly has since posted a [correction](https://twitter.com/KellyDiamond_/status/1267310174152187905) to the above tweet that the $3 billion number is actually 44% of the budget, not 54%.
 She later [clarified](https://twitter.com/KellyDiamond_/status/1267549654251495424) that it's approximately 54% of the _unrestricted_ Los Angeles budget that goes to the LAPD.
@@ -21,11 +23,15 @@ I also used [Kelly's script](https://twitter.com/KellyDiamond_/status/1267262451
 After sending this email to Councilmember Martinez I was confirming information to send the same email body to the Chair of the Budget and Finance Committee, Paul Krekorian.
 That's when I noticed this update:
 
+<br>
 {{< tweet 1267497805565706243 >}}
+<br>
 
 I asked an organizer in my network, and he was able to confirm that Garcetti's budget has not passed and that we still have time to pressure the city council to reallocate the budget:
 
+<br>
 {{< tweet 1267544989568884736 >}}
+<br>
 
 Still, I would like to share my story.
 What follows is the email I sent to Councilmember Martinez today, including links.
