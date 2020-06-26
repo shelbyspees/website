@@ -5,6 +5,9 @@ theme = "noteworthy"
 
 paginate = 4 # Set the number of posts to show before overflowing to the next page.
 
+[permalinks]
+  posts = "/:year/:month/:day/:title/"
+
 [[menu.main]]
   identifier = "posts"
   name = "Posts"
@@ -24,7 +27,7 @@ paginate = 4 # Set the number of posts to show before overflowing to the next pa
   weight = 3
 
 [params]
-  description = "Developer Advocate, Software Engineer, and Dog Mom"
+  description = "developer advocate, software engineer, dog mom"
   showReadMore = true
   # Social media
   twitter = "http://twitter.com/shelbyspees"
