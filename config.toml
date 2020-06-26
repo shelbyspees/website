@@ -27,7 +27,6 @@ paginate = 4 # Set the number of posts to show before overflowing to the next pa
   weight = 3
 
 [params]
-  description = "developer advocate, software engineer, dog mom"
   showReadMore = true
   # Social media
   twitter = "http://twitter.com/shelbyspees"
