@@ -21,6 +21,12 @@ paginate = 4 # Set the number of posts to show before overflowing to the next pa
   weight = 1
 
 [[menu.main]]
+  identifier = "nova"
+  name = "Nova"
+  url = "/nova/"
+  weight = 2
+
+[[menu.main]]
   identifier = "archives"
   name = "Archives"
   url = "/archives/"

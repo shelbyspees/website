@@ -25,3 +25,9 @@ The majority of my past work is private, but here are a few projects I've contri
 
 - [grindrlabs/revolution](https://github.com/grindrlabs/revolution)
 -->
+
+## dog
+
+We all know why you're really here. [Visit the Nova section](/nova) for more left-eared perfection.
+
+{{% instagram B_LJ-olp4HV hidecaption %}}
