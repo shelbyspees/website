@@ -12,7 +12,7 @@ What I often need from my manager is much closer to the skills of a social worke
 
 I'm probably destined to be a manager someday (it was mentioned during my first 1:1 at my first full-time job) and I know I'm gonna mess up royally in some ways because it's hard. But for now, I see harm being done and I feel that a lot of it can be mitigated.
 
-### Engineering managers don't have management skills
+## Engineering managers don't have management skills
 
 Most of the problems we see with both project management and people management methodologies and processes are that they're cargo-cult applied without systems thinking. Not only are engineering managers not trained at all in the core skills of people management, but we devalue those skills as an industry. As a result, people management skills never get significantly invested in.
 
@@ -26,7 +26,7 @@ Upper management refuses to scale back scope because they "made promises" and th
 
 Meanwhile, the people who care the most are the ones who burn out fastest.
 
-### Managers burning out
+## Managers burning out
 
 It hurts the managers as well. At two different jobs I was placed under a former technical individual contributor (IC)---one an analyst, one an SRE---who had just been promoted to their first management role. Both were tacitly expected to maintain their IC output while also taking on all the responsibilities of a manager.
 
@@ -49,7 +49,7 @@ At my first tech job, the analyst-turned-manager didn't have the time or resourc
 
 At my second tech job, the SRE-turned-manager burned out within four months of his new role. His eagerness to build out the team with promising juniors was admirable, but ultimately unsustainable given the improvements he wanted to make and the never-ending backlog of work to do.
 
-### Being responsible about burnout
+## Being responsible about burnout
 
 Generally, however, managers aren't expected to maintain their productivity doing engineering work. Practitioners at the sharp end are, even though they have less control over business and product decisions, and are subject to more scrutiny when something goes wrong. As Dekkar describes in [_Just Culture_](https://www.goodreads.com/book/show/2896995-just-culture), technical practitioners are often held in a double bind, forced to choose between
 
@@ -62,7 +62,7 @@ Burnout is no joke. I feel strongly about that. It's irresponsible for managers 
 
 In addition to being knowledgeable about burnout, it's the responsibility of any people manager to be well-versed in systems of oppression. The tech industry is a complex system involving humans, and those humans can't just leave their non-work struggles at home. Minoritized people experience more stress overall, so they're more at risk of burnout. Oppression can't be handled as a separate issue‚ it's interwoven into every part of the existing system.
 
-### Social science? lol
+## Social science? lol
 
 It's been very frustrating to encounter tech workers throughout my career who throw up their hands because something can't be made into a simple binary metric or linear scale. In basically every other field, practitioners and decision-makers have no choice but to navigate complexity and nuance.
 
