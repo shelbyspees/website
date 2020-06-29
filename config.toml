@@ -29,9 +29,10 @@ paginate = 4 # Set the number of posts to show before overflowing to the next pa
 [params]
   showReadMore = true
   # Social media
-  twitter = "http://twitter.com/shelbyspees"
-  linkedin = "http://linkedin.com/in/shelbyspees"
-  github = "http://github.com/shelbyspees"
+  twitter = "http://twitter.com/shelbyspees/"
+  linkedin = "http://linkedin.com/in/shelbyspees/"
+  github = "http://github.com/shelbyspees/"
+  twitch = "http://twitch.tv/shelbyspees/"
 
 [markup.goldmark.renderer]
   unsafe = true
