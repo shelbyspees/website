@@ -33,6 +33,7 @@ paginate = 4 # Set the number of posts to show before overflowing to the next pa
   linkedin = "http://linkedin.com/in/shelbyspees/"
   github = "http://github.com/shelbyspees/"
   twitch = "http://twitch.tv/shelbyspees/"
+  icon = "nova-ears.png"
 
 [markup.goldmark.renderer]
   unsafe = true
