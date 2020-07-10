@@ -25,10 +25,3 @@ I wrote a blog post introducing myself when I started my current job: [*Right at
 We all know why you're really here. Visit the [Nova](/nova) section for more left-eared perfection.
 
 {{% instagram B_LJ-olp4HV hidecaption %}}
-
-<br><br>
-<br><br>
-
----
-
-This site is built with [Hugo](https://gohugo.io) using the [Noteworthy theme](https://github.com/kimcc/hugo-theme-noteworthy).
