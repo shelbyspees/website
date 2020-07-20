@@ -12,7 +12,7 @@ You can probably find me on [Twitter](http://twitter.com/shelbyspees), plus I re
 
 The majority of my past work is private, but I'll share more here as it happens.
 
-I wrote a blog post introducing myself when I started my current job: [*Right at Home in My New Role*](https://www.honeycomb.io/blog/right-at-home-in-my-new-role/). You can also check out [my other posts on the Honeycomb blog](https://www.honeycomb.io/blog/author/shelby/).
+I wrote a blog post introducing myself when I started my current job: [*Right at Home in My New Role*](https://www.honeycomb.io/blog/right-at-home-in-my-new-role/). You can also check out [my other posts on the Honeycomb blog](https://www.honeycomb.io/author/shelby/).
 
 <!-- TODO add this section back in when I have a more interesting list
 ## code
