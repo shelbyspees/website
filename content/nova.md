@@ -1,5 +1,6 @@
 ---
 title: "Nova"
+no_paginate: true
 ---
 
 Nova is a rescue pitbull terrier, adopted November 2017.

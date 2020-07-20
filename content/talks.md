@@ -1,5 +1,6 @@
 ---
 title: "Talks"
+no_paginate: true
 ---
 
 If you're looking for slides, you can request them at [honeycomb.io/shelby](http://honeycomb.io/shelby/).
@@ -22,6 +23,7 @@ Liked the talk? You may also enjoy these posts on the Honeycomb blog:
 - [Observations on ARM64 & AWS’s Amazon EC2 M6g Instances
 ](https://www.honeycomb.io/blog/observations-on-arm64-awss-amazon-ec2-m6g-instances/)
 
-<!-- TODO still gotta write this one
+<!-- TODO still gotta write these
 ## Thinking in Observability-Driven Development
+## Observing Your Monolith
 -->
