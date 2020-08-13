@@ -1,6 +1,5 @@
 ---
 title: Instrumentation
-draft: true
 ---
 
 ## what is instrumentation?
@@ -52,4 +51,8 @@ statsd uses UDP instead of TCP to be able to cheaply send metrics data to the ta
 
 ## traces
 
+TODO
+
 ## events
+
+TODO
