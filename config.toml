@@ -21,16 +21,22 @@ paginate = 4 # Set the number of posts to show before overflowing to the next pa
   weight = 1
 
 [[menu.main]]
+  identifier = "threads"
+  name = "Threads"
+  url = "/threads/"
+  weight = 2
+
+[[menu.main]]
   identifier = "notes"
   name = "Notes"
   url = "/notes/"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   identifier = "nova"
   name = "Nova"
   url = "/nova/"
-  weight = 3
+  weight = 4
 
 [params]
   showReadMore = true
