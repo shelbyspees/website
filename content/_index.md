@@ -1,27 +1,32 @@
 ---
-title: "developer advocate, etc."
+title: "dog mom, language nerd, singer, developer advocate, etc."
 ---
 
-Hi, I'm Shelby 👋
+Hi there 👋 I'm Shelby. (pronouns: she/her or they/them)
 
-I'm a developer advocate and software engineer dedicated to making the tech industry more accessible and equitable.
+## personal 💜🐾
 
-You can probably find me on [Twitter](http://twitter.com/shelbyspees), plus I recently started streaming on [Twitch](http://twitch.tv/shelbyspees).
+I live in Los Angeles, CA with my pitbull, [Nova](/nova).
 
-## work
+If you want to be penpals, you can email me at `shelby at hey.com`, but I'm kinda bad about responding 😓. Really, the best way to reach me for non-work stuff is on [twitter](http://twitter.com/shelbyspees). Hit me up! 
 
-The majority of my past work is private, but I'll share more here as it happens.
+## work 💻🥑
 
-I wrote a blog post introducing myself when I started my current job: [*Right at Home in My New Role*](https://www.honeycomb.io/blog/right-at-home-in-my-new-role/). You can also check out [my other posts on the Honeycomb blog](https://www.honeycomb.io/author/shelby/).
+I've been developing software professionally since 2015, after going back to school to take online computer science classes. Since then I've been lucky to work in a range of domains and with lots of wonderful people.
 
-<!-- TODO add this section back in when I have a more interesting list
-## code
+Currently I work as a Developer Advocate at [Honeycomb](http://honeycomb.io/). My job involves spreading the word about observability, helping people get the most out of Honeycomb, and sharing valuable user feedback with our product team. I also work on the [Honeycomb blog](http://honeycomb.io/blog/) and [o11ycast](http://o11y.fm/)!
 
-- [grindrlabs/revolution](https://github.com/grindrlabs/revolution)
--->
+- [read my posts on the Honeycomb blog](https://www.honeycomb.io/author/shelby/)
+- schedule time during my [office hours](https://honeycomb.io/meet/shelby/)
+- request slides from a talk I've given: [honeycomb.io/shelby](https://honeycomb.io/shelby/)
+- reach out directly: `shelby at honeycomb.io`
 
-## dog
+## music 🎤🎵
 
-We all know why you're really here. Visit the [Nova](/nova) section for more left-eared perfection.
+Music goals:
 
-{{% instagram B_LJ-olp4HV hidecaption %}}
+- post some videos of myself playing ukulele and/or singing
+- join an orchestra again
+- join a classic rock cover band as the lead singer
+- perform [Postmodern Jukebox](https://postmodernjukebox.com/) covers in a jazz club like some kind of lounge singer
+- get two Ovations on [Twitch Sings](https://www.twitch.tv/sings/en-gb/download/?utm_referrer=https://www.google.com/)
