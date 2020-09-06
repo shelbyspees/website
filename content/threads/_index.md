@@ -1,5 +1,6 @@
 ---
 title: "Threads"
+layout: archives
 ---
 
 I've been using Twitter since around 2012. It's been the source of some important lessons for me, based on real people's actual life experiences. Plus, it's where I first learned about observability and Honeycomb.
