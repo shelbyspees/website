@@ -1,5 +1,6 @@
 ---
 title: "Honeycomb Learn Ep. 1: Instrument Better for a Happy Debugging Team"
+date: 2020-08-03T16:10:00-07:00
 ---
 {{< tweet-single 1290424770597511168 >}}
 {{< tweet-single 1290425348530663424 >}}

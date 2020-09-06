@@ -1,6 +1,7 @@
 ---
 title: "Everybody is struggling right now"
 tags: [adhd, mental health, management, productivity]
+date: 2020-08-27T11:13:00-07:00
 ---
 
 {{< tweet-single 1299047316821688320 >}}

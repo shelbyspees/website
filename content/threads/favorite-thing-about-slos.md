@@ -1,5 +1,6 @@
 ---
 title: "Favorite thing about SLOs"
+date: 2020-08-17T15:29:00-07:00
 ---
 
 {{< tweet-single 1295487862243090433 >}}

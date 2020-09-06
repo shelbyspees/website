@@ -1,5 +1,6 @@
 ---
 title: "Haircut, September 2020"
+date: 2020-09-05T16:12:00-07:00
 ---
 
 {{< tweet-single 1302384020404101121 >}}

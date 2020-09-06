@@ -1,5 +1,6 @@
 ---
 title: "Honeycomb Learn Ep. 2: De-stress Debugging - Triggers, Feature Flags, & Fast Query"
+date: 2020-08-05T16:04:00-07:00
 ---
 
 {{< tweet-single 1291148144923688960 >}}
