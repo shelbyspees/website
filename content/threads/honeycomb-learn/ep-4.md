@@ -1,6 +1,7 @@
 ---
 title: "Honeycomb Learn Ep. 4: BubbleUp to Spot Outliers in Production"
 date: 2020-08-12T16:07:00-07:00
+tags: [learn with Shelby, Honeycomb Learn]
 ---
 
 {{< tweet-single 1293685476667191296 >}}

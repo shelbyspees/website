@@ -1,6 +1,7 @@
 ---
 title: "Honeycomb Learn Ep. 3: See The Trace? Discover Errors, Latency & More Across Distributed Systems"
 date: 2020-08-10T16:04:00-07:00
+tags: [learn with Shelby, Honeycomb Learn, tracing]
 ---
 
 {{< tweet-single 1292960040660262912 >}}
