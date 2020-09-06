@@ -29,4 +29,6 @@ Music goals:
 - join an orchestra again
 - join a classic rock cover band as the lead singer
 - perform [Postmodern Jukebox](https://postmodernjukebox.com/) covers in a jazz club like some kind of lounge singer
-- get two Ovations on [Twitch Sings](https://www.twitch.tv/sings/en-gb/download/?utm_referrer=https://www.google.com/)
+- ✅ ~~get two Ovations on [Twitch Sings](https://www.twitch.tv/sings/en-gb/download/?utm_referrer=https://www.google.com/)~~
+- get three Ovations on Twitch Sings
+- learn to stream karaoke without using Twitch Sings
