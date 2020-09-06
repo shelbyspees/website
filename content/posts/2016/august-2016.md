@@ -36,11 +36,11 @@ Now with these fundamental lessons learned, my efforts to bring my own software 
 
 In general, software developers aren't great at articulating our value to non-technical audiences. [Our modern society depends on digital infrastructure.](https://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) Us software folks should be spending a much larger portion of our time developing our communication and interpersonal skills.
 
-[This March 2015 article from *Science Magazine*](http://science.sciencemag.org/content/347/6226/1166) concisely argues the importance of scientists learning the humanities in order to gain the skills needed for modern research work:
+[This March 2015 article from *Science Magazine*](https://science.sciencemag.org/content/347/6226/1166) concisely argues the importance of scientists learning the humanities in order to gain the skills needed for modern research work:
 
 > In addition to practicing the traditional craft, today's scientists need to be prepared to tackle complex challenges in a globalized (and multidisciplinary) world, to think critically about how we solve problems, and to communicate persuasively with diverse audiences.
 >
-> --- Kevin Boehnke, ["Oh the humanities!"](http://science.sciencemag.org/content/347/6226/1166), *Science Magazine*
+> --- Kevin Boehnke, ["Oh the humanities!"](https://science.sciencemag.org/content/347/6226/1166), *Science Magazine*
 
 I'm much faster at implementing than I used to be. It's refreshing, but I've known all along that implementation speed isn't the more important factor in developing successful software.
 
@@ -50,13 +50,13 @@ Steve McConnell discusses how project size affects construction in one of my fav
 
 His accompanying graph illustrates how linear increases in construction effort correspond to exponential increases in non-construction effort:
 
-![](http://i.imgur.com/29JNtLR.png)
+![](https://i.imgur.com/29JNtLR.png)
 
 While the math might not work out perfectly, McConnell also writes:
 
 >The number of communication paths increases proportionate to the square of the number of people on the team.
 
-![](http://i.imgur.com/Ec3diGT.png)
+![](https://i.imgur.com/Ec3diGT.png)
 
 It's easy to discount the effort required for communicating, planning, integration, etc. because on small projects these efforts are barely a blip on the radar. But as the communication paths diagram shows, communication effort can quickly become unmanageable on large teams. I'm guessing it's similarly complex for other non-construction efforts.
 
