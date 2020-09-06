@@ -1,5 +1,6 @@
 ---
 title: "Notes"
+no_paginate: true
 ---
 
 This is my collection of informal, unpolished notes, which I use as learning tool for my own benefit. If you get something out of it, even better!

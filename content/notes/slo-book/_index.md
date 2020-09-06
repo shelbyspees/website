@@ -1,5 +1,6 @@
 ---
 title: "SLO Book"
+no_paginate: true
 ---
 
 These are my notes I'm taking as I read through the new book from [Alex Hidalgo](https://twitter.com/ahidalgosre) et al., [Implementing Service Level Objectives](https://www.oreilly.com/library/view/implementing-service-level/9781492076803/).

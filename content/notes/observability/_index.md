@@ -1,5 +1,6 @@
 ---
 title: "Notes on Observability"
+no_paginate: true
 ---
 
 There are some fantastic resources out there discussing observability, or o11y for short.

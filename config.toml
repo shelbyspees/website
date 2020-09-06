@@ -2,6 +2,7 @@ baseURL = "https://shelbyspees.com/"
 languageCode = "en-us"
 title = "Shelby Spees"
 theme = "noteworthy"
+enableGitInfo = true
 
 paginate = 6 # Set the number of posts to show before overflowing to the next page.
 
