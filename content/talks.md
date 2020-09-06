@@ -1,9 +1,16 @@
 ---
 title: "Talks"
 no_paginate: true
+draft: true
 ---
 
 If you're looking for slides, you can request them at [honeycomb.io/shelby](http://honeycomb.io/shelby/).
+
+## Observability for Software Teams
+
+### Abstract
+
+Liked the talk? You may also like these posts:w
 
 ## Fast and Simple: Observing Code and Infra Deployments at Honeycomb
 
