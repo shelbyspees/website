@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Shelby Spees"
+title = "shelby spees"
 theme = "noteworthy"
 
 paginate = 6 # Set the number of posts to show before overflowing to the next page.
@@ -10,25 +10,25 @@ paginate = 6 # Set the number of posts to show before overflowing to the next pa
 
 [[menu.main]]
   identifier = "posts"
-  name = "Posts"
+  name = "posts"
   url = "/posts/"
   weight = -1
 
 [[menu.main]]
   identifier = "threads"
-  name = "Threads"
+  name = "threads"
   url = "/threads/"
   weight = 2
 
 [[menu.main]]
   identifier = "notes"
-  name = "Notes"
-  url = "/notes/"
+  name = "notes"
+  url = "https://notes.shelbyspees.com/"
   weight = 3
 
 [[menu.main]]
   identifier = "nova"
-  name = "Nova"
+  name = "dog"
   url = "/nova/"
   weight = 4
 
