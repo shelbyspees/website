@@ -30,11 +30,13 @@ paginate = 6 # Set the number of posts to show before overflowing to the next pa
   identifier = "notes"
   name = "notes"
   url = "https://notes.shelbyspees.com/"
+  post = "&nbsp;&nbsp;<i class='fa fa-external-link' aria-hidden='true'></i>"
   weight = 4
 
 [[menu.main]]
   identifier = "speaking"
   name = "speaking"
+  post = "&nbsp;&nbsp;<i class='fa fa-external-link' aria-hidden='true' title='External link'></i><span class='sr-only'>External link</span>"
   url = "https://speaking.shelbyspees.com/"
   weight = 5
 
