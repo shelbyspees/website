@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://shelbyspees.com"
 languageCode = "en-us"
 title = "shelby spees"
 theme = "noteworthy"
@@ -20,17 +20,23 @@ paginate = 6 # Set the number of posts to show before overflowing to the next pa
   url = "/threads/"
   weight = 2
 
+  [[menu.main]]
+  identifier = "nova"
+  name = "dog"
+  url = "/nova/"
+  weight = 3
+
 [[menu.main]]
   identifier = "notes"
   name = "notes"
   url = "https://notes.shelbyspees.com/"
-  weight = 3
+  weight = 4
 
 [[menu.main]]
-  identifier = "nova"
-  name = "dog"
-  url = "/nova/"
-  weight = 4
+  identifier = "speaking"
+  name = "speaking"
+  url = "https://speaking.shelbyspees.com/"
+  weight = 5
 
 [params]
   showReadMore = true
