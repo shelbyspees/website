@@ -44,10 +44,10 @@ paginate = 6 # Set the number of posts to show before overflowing to the next pa
   showReadMore = true
   mainSections = ["posts"]
   # Social media
-  twitter = "http://twitter.com/shelbyspees/"
-  linkedin = "http://linkedin.com/in/shelbyspees/"
-  github = "http://github.com/shelbyspees/"
-  twitch = "http://twitch.tv/shelbyspees/"
+  twitter = "https://twitter.com/shelbyspees/"
+  linkedin = "https://linkedin.com/in/shelbyspees/"
+  github = "https://github.com/shelbyspees/"
+  twitch = "https://twitch.tv/shelbyspees/"
   icon = "nova-ears.png"
 
 [markup.goldmark.renderer]
