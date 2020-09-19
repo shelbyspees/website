@@ -1,7 +1,7 @@
 baseURL = "https://shelbyspees.com"
 languageCode = "en-us"
+theme = "hello-friend-ng"
 title = "shelby spees"
-theme = "noteworthy"
 
 paginate = 6 # Set the number of posts to show before overflowing to the next page.
 
