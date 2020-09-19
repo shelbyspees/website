@@ -3,7 +3,7 @@ languageCode = "en-us"
 theme = "hello-friend-ng"
 title = "shelby spees"
 
-paginate = 6 # Set the number of posts to show before overflowing to the next page.
+paginate = 100 # Set the number of posts to show before overflowing to the next page.
 
 [permalinks]
   posts = "/:year/:month/:day/:title/"
@@ -27,18 +27,24 @@ paginate = 6 # Set the number of posts to show before overflowing to the next pa
   weight = 3
 
 [[menu.main]]
-  identifier = "notes"
-  name = "notes"
-  url = "https://notes.shelbyspees.com/"
-  post = "&nbsp;&nbsp;<i class='fa fa-external-link' aria-hidden='true' title='External link'></i><span class='sr-only'>External link</span>"
-  weight = 4
+identifier = "about"
+name = "about"
+url = "/about/"
+weight = 4
 
 [[menu.main]]
-  identifier = "speaking"
-  name = "speaking"
-  post = "&nbsp;&nbsp;<i class='fa fa-external-link' aria-hidden='true' title='External link'></i><span class='sr-only'>External link</span>"
-  url = "https://speaking.shelbyspees.com/"
-  weight = 5
+identifier = "notes"
+name = "notes↗"
+url = "https://notes.shelbyspees.com/"
+# post = "&nbsp;&nbsp;<i class='fa fa-external-link' aria-hidden='true' title='External link'></i><span class='sr-only'>External link</span>"
+weight = 11
+
+[[menu.main]]
+identifier = "speaking"
+name = "speaking↗"
+# post = "&nbsp;&nbsp;<i class='fa fa-external-link' aria-hidden='true' title='External link'></i><span class='sr-only'>External link</span>"
+url = "https://speaking.shelbyspees.com/"
+weight = 12
 
 [params]
   showReadMore = true

@@ -1,0 +1,7 @@
+{{- $pc := .Page.Site.Config.Privacy.Twitter -}}
+{{- $sc := .Page.Site.Config.Services.Twitter -}}
+{{- if not $pc.Disable -}}
+    {{- $id := .Get 0 -}}
+    {{- $json := getJSON "https://api.twitter.com/1/statuses/oembed.json?hide_thread=1&id=" $id -}}
+    {{ $json.html | safeHTML }}
+{{- end -}}
