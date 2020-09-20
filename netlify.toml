@@ -2,3 +2,9 @@ command = "git submodule update --init --recursive --depth=1 && hugo --minify"
 
 [build.environment]
 HUGO_VERSION = "0.72.0"
+
+[[redirects]]
+  from = "/threads"
+  to = "/categories/twitter-threads"
+  status = 301
+  force = true
