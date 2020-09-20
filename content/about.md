@@ -1,16 +1,18 @@
 ---
-title: "dog mom, language nerd, singer, developer advocate, etc."
+title: "developer advocate, dog mom, etc."
 ---
 
-Hi there 👋 I'm Shelby. (pronouns: she/her or they/them)
+Hi there 👋  
+I'm Shelby. (pronouns: she/her or they/them)  
+I live in Los Angeles, CA with my pitbull, [Nova](/nova) 🐾 💜
 
-## personal 💜🐾
+![Shelby and Nova lying on a bed, with Nova's face very close to the camera](https://i.imgur.com/UWQ72oh.jpg)
 
-I live in Los Angeles, CA with my pitbull, [Nova](/nova).
+## 💬 contact 💌
 
-If you want to be penpals, you can email me at `shelby at hey.com`, but I'm kinda bad about responding 😓. Really, the best way to reach me for non-work stuff is on [twitter](http://twitter.com/shelbyspees). Hit me up! 
+The best way to reach me for non-work stuff is on <a href="https://twitter.com/shelbyspees/" target="_blank">twitter↗️</a>. Otherwise you can email me: `shelby at hey.com`
 
-## work 💻🥑
+## 💻 work 🥑
 
 I've been developing software professionally since 2015, after going back to school to take online computer science classes. Since then I've been lucky to work in a range of domains and with lots of wonderful people.
 
@@ -21,9 +23,9 @@ Currently I work as a Developer Advocate at [Honeycomb](http://honeycomb.io/). M
 - request slides from a talk I've given: [honeycomb.io/shelby](https://honeycomb.io/shelby/)
 - reach out directly: `shelby at honeycomb.io`
 
-## music 🎤🎵
+## 🎤 fun 🎵
 
-Music goals:
+here are some of my informal music goals:
 
 - post some videos of myself playing ukulele and/or singing
 - join an orchestra again
