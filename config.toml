@@ -4,6 +4,7 @@ theme = "hello-friend-ng"
 title = "shelby spees"
 
 paginate = 15 # Set the number of posts to show before overflowing to the next page.
+enableGitInfo = true
 
 [permalinks]
   posts = "/:year/:month/:day/:title/"
@@ -17,6 +18,7 @@ paginate = 15 # Set the number of posts to show before overflowing to the next p
   homeSubtitle = "developer advocate, dog mom, etc."
   mainSections = ["posts"]
   showReadMore = true
+  gitUrl = "https://github.com/shelbyspees/website/commit/"
 
 [params.logo]
   logoHomeLink = "/"
