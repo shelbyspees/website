@@ -8,11 +8,59 @@ paginate = 100 # Set the number of posts to show before overflowing to the next 
 [permalinks]
   posts = "/:year/:month/:day/:title/"
 
+
+[author]
+  name = "Shelby Spees"
+
+[params]
+  defaultTheme = "light"
+  homeSubtitle = "developer advocate, dog mom, etc."
+  mainSections = ["posts"]
+  showReadMore = true
+
+[params.logo]
+  logoHomeLink = "/"
+  logoText = "welcome"
+  path = "/nova-ears.png"
+  # alt = "Your example logo alt text"
+
+  # [params.portrait]
+  #   path     = "/nova-ears.png"
+  #   alt      = "Portrait"
+  #   maxWidth = "600px"
+
+# Social icons
+[[params.social]]
+  name = "twitter"
+  url = "https://twitter.com/shelbyspees"
+
+  [[params.social]]
+  name = "twitch"
+  url = "https://www.twitch.com/shelbyspees"
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/shelbyspees"
+
+  [[params.social]]
+  name = "gitbook"
+  url = "https://notes.shelbyspees.com"
+
+[[params.social]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/shelbyspees"
+
+[[menu.main]]
+  identifier = "about"
+  name = "about"
+  url = "/about/"
+  weight = -1
+
 [[menu.main]]
   identifier = "posts"
   name = "posts"
   url = "/posts/"
-  weight = -1
+  weight = 1
 
 [[menu.main]]
   identifier = "threads"
@@ -20,41 +68,27 @@ paginate = 100 # Set the number of posts to show before overflowing to the next 
   url = "/threads/"
   weight = 2
 
-  [[menu.main]]
+[[menu.main]]
   identifier = "nova"
   name = "dog"
   url = "/nova/"
   weight = 3
 
-[[menu.main]]
-identifier = "about"
-name = "about"
-url = "/about/"
-weight = 4
+
 
 [[menu.main]]
-identifier = "notes"
-name = "notes↗"
-url = "https://notes.shelbyspees.com/"
-# post = "&nbsp;&nbsp;<i class='fa fa-external-link' aria-hidden='true' title='External link'></i><span class='sr-only'>External link</span>"
-weight = 11
+  identifier = "notes"
+  name = "notes↗"
+  url = "https://notes.shelbyspees.com/"
+  # post = "&nbsp;&nbsp;<i class='fa fa-external-link' aria-hidden='true' title='External link'></i><span class='sr-only'>External link</span>"
+  weight = 11
 
 [[menu.main]]
-identifier = "speaking"
-name = "speaking↗"
-# post = "&nbsp;&nbsp;<i class='fa fa-external-link' aria-hidden='true' title='External link'></i><span class='sr-only'>External link</span>"
-url = "https://speaking.shelbyspees.com/"
-weight = 12
-
-[params]
-  showReadMore = true
-  mainSections = ["posts"]
-  # Social media
-  twitter = "https://twitter.com/shelbyspees/"
-  linkedin = "https://linkedin.com/in/shelbyspees/"
-  github = "https://github.com/shelbyspees/"
-  twitch = "https://twitch.tv/shelbyspees/"
-  icon = "nova-ears.png"
+  identifier = "speaking"
+  name = "speaking↗"
+  # post = "&nbsp;&nbsp;<i class='fa fa-external-link' aria-hidden='true' title='External link'></i><span class='sr-only'>External link</span>"
+  url = "https://speaking.shelbyspees.com/"
+  weight = 12
 
 [markup.goldmark.renderer]
   unsafe = true
