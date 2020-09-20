@@ -15,7 +15,7 @@ The best way to reach me for non-work stuff is on <a href="https://twitter.com/s
 ## 🐝 work 🥑
 
 I've been developing software professionally since 2015, after going back to school to take online computer science classes.
-Since then I've been lucky to work in a range of domains and with lots of wonderful people.
+Since then I've been lucky to work in a range of domains and with lots of wonderful people. [Check out my resume.](/resume/)
 
 Currently I work as a Developer Advocate at <a href="https://honeycomb.io/" target="_blank">Honeycomb↗️</a>.
 My job involves spreading the word about observability, helping people get the most out of Honeycomb, and sharing valuable user feedback with our product team.
