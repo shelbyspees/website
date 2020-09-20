@@ -1,5 +1,6 @@
 ---
 title: "Liz Fong-Jones: Refining Systems Data without Losing Fidelity"
+categories: [twitter threads]
 date: 2020-07-22T16:01:00-07:00
 ---
 

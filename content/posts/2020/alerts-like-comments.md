@@ -1,5 +1,6 @@
 ---
 title: "Treat alerts like comments"
+categories: [twitter threads] 
 date: 2020-01-16T09:53:00-07:00
 ---
 

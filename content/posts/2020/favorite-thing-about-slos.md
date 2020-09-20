@@ -1,5 +1,6 @@
 ---
 title: "Favorite thing about SLOs"
+categories: [twitter threads] 
 date: 2020-08-17T15:29:00-07:00
 ---
 

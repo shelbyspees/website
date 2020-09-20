@@ -1,5 +1,6 @@
 ---
 title: "Observability can be a democratizing force"
+categories: [twitter threads]
 date: 2020-09-15T22:57:00-07:00
 ---
 

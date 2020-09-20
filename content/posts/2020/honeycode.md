@@ -1,5 +1,6 @@
 ---
 title: "Honeycode and Honeycomb"
+categories: [twitter threads]
 date: 2020-09-02T23:25:00-07:00
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Haircut, September 2020"
+categories: [twitter threads]
 date: 2020-09-05T16:12:00-07:00
 ---
 

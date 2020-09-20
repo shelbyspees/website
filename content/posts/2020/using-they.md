@@ -1,5 +1,6 @@
 ---
 title: "Using they"
+categories: [twitter threads]
 date: 2020-08-26T22:52:00-07:00
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Feedback is a gift"
+categories: [twitter threads]
 date: 2020-09-19T12:18:00-07:00
 ---
 

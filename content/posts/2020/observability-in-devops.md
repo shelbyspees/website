@@ -1,5 +1,6 @@
 ---
 title: "SKILupDay Crowd Chat: What does observability in DevOps mean to you?"
+categories: [twitter threads]
 date: 2020-08-12T09:00:00-07:00
 ---
 

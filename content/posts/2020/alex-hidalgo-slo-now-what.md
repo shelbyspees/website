@@ -1,6 +1,7 @@
 ---
 title: "Alex Hidalgo: I Have an SLO. Now What?"
 tags: [live tweeting, site reliability engineering, service level objectives]
+categories: [twitter threads] 
 date: 2020-08-13T11:07:00-07:00
 ---
 
