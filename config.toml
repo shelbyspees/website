@@ -75,21 +75,19 @@ paginate = 15 # Set the number of posts to show before overflowing to the next p
   url = "/nova/"
   weight = 3
 
+# [[menu.main]]
+#   identifier = "notes"
+#   name = "notes↗"
+#   url = "https://notes.shelbyspees.com/"
+#   # post = "&nbsp;&nbsp;<i class='fa fa-external-link' aria-hidden='true' title='External link'></i><span class='sr-only'>External link</span>"
+#   weight = 11
 
-
-[[menu.main]]
-  identifier = "notes"
-  name = "notes↗"
-  url = "https://notes.shelbyspees.com/"
-  # post = "&nbsp;&nbsp;<i class='fa fa-external-link' aria-hidden='true' title='External link'></i><span class='sr-only'>External link</span>"
-  weight = 11
-
-[[menu.main]]
-  identifier = "speaking"
-  name = "speaking↗"
-  # post = "&nbsp;&nbsp;<i class='fa fa-external-link' aria-hidden='true' title='External link'></i><span class='sr-only'>External link</span>"
-  url = "https://speaking.shelbyspees.com/"
-  weight = 12
+# [[menu.main]]
+#   identifier = "speaking"
+#   name = "speaking↗"
+#   # post = "&nbsp;&nbsp;<i class='fa fa-external-link' aria-hidden='true' title='External link'></i><span class='sr-only'>External link</span>"
+#   url = "https://speaking.shelbyspees.com/"
+#   weight = 12
 
 [markup.goldmark.renderer]
   unsafe = true
