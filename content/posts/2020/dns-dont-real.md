@@ -17,7 +17,7 @@ It was the Sunday before Labor Day.
 {{% tweet-single-center 1302689874676334592 %}}
 
 I'm pretty sure this is how it played out: I was working on the 
-<a href="https://old-notes.shelbyspees.com/notes/" target="_blank">Notes section↗️</a> of the old version of my site, and I was getting tired of typing out my full name every time I wanted to check things in prod. Seeing other people's cute `.dev` domains made me jealous (I especially like <a href="https://nikema.dev/" target="_blank">Nikema's↗️</a>, so I went to Namecheap to check how much it would be to get one for myself.
+<a href="https://old-notes.shelbyspees.com/notes/" target="_blank">Notes section↗️</a> of the old version of my site, and I was getting tired of typing out my full name every time I wanted to check things in prod. Seeing other people's cute `.dev` domains made me jealous (I especially like <a href="https://nikema.dev/" target="_blank">Nikema's↗️</a>), so I went to Namecheap to check how much it would be to get one for myself.
 
 While I was there, I clicked around my dashboard and noticed that the PremiumDNS service I paid for is switched off:
 
