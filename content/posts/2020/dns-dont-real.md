@@ -45,7 +45,7 @@ My understanding at the time was that Koenraad's approach would support neither 
 
 {{% tweet-single-center 1302767104500924416 %}}
 
-Since I'd just set up those subdomains in Namecheap so I wasn't ready to sacrifice them. And I wanted to get my $4.88 worth of PremiumDNS for the year!
+Since I'd just set up those subdomains in Namecheap, I was _not_ ready to sacrifice them. Plus I wanted to get my $4.88 worth of PremiumDNS for the year!
 
 Have I mentioned that this is the most I'd ever thought about DNS up until that point? At least I got to enjoy how bad things would look to someone visiting my site:
 
