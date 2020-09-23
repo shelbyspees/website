@@ -5,6 +5,7 @@ title = "shelby spees"
 
 paginate = 15
 enableGitInfo = true
+googleAnalytics = "UA-178718117-1"
 
 [permalinks]
   posts = "/:year/:month/:day/:title/"
@@ -19,6 +20,8 @@ enableGitInfo = true
   mainSections = ["posts"]
   showReadMore = true
   gitUrl = "https://github.com/shelbyspees/website/commit/"
+  description = "shelby spees: developer advocate, dog mom, etc."
+  images = ["/nova-ears.png"]
 
 [params.logo]
   logoHomeLink = "/"
