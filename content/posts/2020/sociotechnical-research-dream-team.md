@@ -1,6 +1,7 @@
 ---
 title: "Sociotechnical research dream team"
 date: 2020-10-02T13:14:10-07:00
+categories: [twitter threads]
 ---
 
 {{< tweet-single 1312109316854349824 >}}
