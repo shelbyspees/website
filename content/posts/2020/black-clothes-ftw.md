@@ -1,7 +1,6 @@
 ---
 title: Black Clothes FTW
-date: 20201015T00:00:00
-draft: true
+date: 2020-10-15T01:20:00-07:00
 ---
 
 For years I've been leaning on black clothing. It's saved the day for me on so many occasions.
