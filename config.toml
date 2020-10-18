@@ -47,6 +47,10 @@ googleAnalytics = "UA-178718117-1"
   url = "https://github.com/shelbyspees"
 
 [[params.social]]
+  name = "dev"
+  url = "https://dev.to/shelbyspees"
+
+[[params.social]]
   name = "gitbook"
   url = "https://notes.shelbyspees.com"
 
