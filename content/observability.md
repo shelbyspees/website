@@ -1,0 +1,32 @@
+---
+title: "Observability Resources"
+aliases: [
+  "o11y",
+]
+---
+
+Here's a short list of my favorite resources to start you on your observability (abbreviated "o11y") journey.
+
+"Observability 101: Terminology and Concepts," which is the introductory post I needed a year and a half ago:
+
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.honeycomb.io/blog/observability-101-terminology-and-concepts/" data-iframely-url="//cdn.iframe.ly/5S7uodx?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+
+"Observability and your business," by my teammate [Liz Fong-Jones](https://lizthegrey.com):
+
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://leaddev.com/monitoring-observability/observability-and-your-business" data-iframely-url="//cdn.iframe.ly/P1EXm8Y?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+
+"How the ‘3 Pillars of Observability’ Miss the Big Picture," by my teammate, [Danyel Fisher]():
+
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://thenewstack.io/how-the-3-pillars-of-observability-miss-the-big-picture/" data-iframely-url="//cdn.iframe.ly/QLAWKna?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+
+I also recommend Liz's "Cultivating Production Excellence" talk, where she describes about how observability fits into your overall engineering practice:
+
+<iframe width="100%" height="450px" src="https://www.youtube.com/embed/Nl9Jn-7n2Eg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Finally, if you're ready to drink from the firehose, I maintain an [observability page](https://notes.shelbyspees.com/observability-4aa3308825a249098e0ccc72983266cf) in my tech notes with even more resources!
+
+## Observability office hours
+
+Need help with next steps? Schedule 30 minutes on my calendar: [hny.co/meet/shelby](https://hny.co/meet/shelby/)
+
+You can also reach me at my work email `shelby @ honeycomb.io` or by DMing me in the [Honeycomb Pollinators Slack community](https://join.slack.com/t/honeycombpollinators/shared_invite/zt-fv552707-y8m40UD2_~jonb1n9r5cNg).
