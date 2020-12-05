@@ -7,10 +7,6 @@ Hi there 👋
 I'm Shelby. (pronouns: she/her or they/them)  
 I live in Los Angeles, CA with my pitbull, [Nova](/nova) 🐾 💜
 
-## 💬 contact 💌
-
-The best way to reach me for non-work stuff is on <a href="https://twitter.com/shelbyspees/" target="_blank">twitter↗️</a>. Otherwise you can email me: `shelby at hey.com`
-
 ## 🐝 work 🥑
 
 I've been developing software professionally since 2015, after going back to school to take online computer science classes.
@@ -24,19 +20,10 @@ I also work on the <a href="https://honeycomb.io/blog/" target="_blank">Honeycom
 - request slides from a talk I've given at my <a href="https://honeycomb.io/shelby/" target="_blank">Honeycomb speaker page↗️</a>
 - check out my <a href="https://speaking.shelbyspees.com/" target="_blank">speaker portfolio↗️</a>
 
-### 💻 contact me for work ✉️
-
-- schedule time during my <a href="https://calendly.com/shelbyspees/30min/" target="_blank">office hours↗️</a>
-- hit me up in the Pollinators Slack workspace (<a href="https://www.honeycomb.io/blog/spread-the-love-appreciating-our-pollinators-community/" target="_blank">read about it here↗️</a>)
-- reach out directly: `shelby at honeycomb.io`
-
 ## 🎤 fun 🎵
 
 here are some of my informal music goals:
 
-- post some videos of myself playing ukulele and/or singing
-- ✅ ~~get two Ovations on [Twitch Sings↗️](https://www.twitch.tv/sings/en-gb/download/?utm_referrer=https://www.google.com/)~~
-- get three Ovations on Twitch Sings
 - learn to stream karaoke without using Twitch Sings
 - join an orchestra again
 - join a classic rock cover band as the lead singer

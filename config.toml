@@ -59,12 +59,6 @@ googleAnalytics = "UA-178718117-1"
   url = "https://www.linkedin.com/in/shelbyspees"
 
 [[menu.main]]
-  identifier = "about"
-  name = "about"
-  url = "/about/"
-  weight = -1
-
-[[menu.main]]
   identifier = "posts"
   name = "posts"
   url = "/posts/"
@@ -75,6 +69,18 @@ googleAnalytics = "UA-178718117-1"
   name = "dog"
   url = "/nova/"
   weight = 3
+
+[[menu.main]]
+  identifier = "about"
+  name = "about"
+  url = "/about/"
+  weight = 4
+
+[[menu.main]]
+  identifier = "contact"
+  name = "contact"
+  url = "/contact/"
+  weight = 5
 
 [markup.goldmark.renderer]
   unsafe = true
