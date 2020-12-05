@@ -51,7 +51,7 @@ googleAnalytics = "UA-178718117-1"
   url = "https://dev.to/shelbyspees"
 
 [[params.social]]
-  name = "gitbook"
+  name = "notion"
   url = "https://notes.shelbyspees.com"
 
 [[params.social]]

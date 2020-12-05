@@ -1,12 +1,11 @@
 ---
 title: "developer advocate, dog mom, etc."
+cover: https://i.imgur.com/aEpGI0o.png
 ---
 
 Hi there 👋  
 I'm Shelby. (pronouns: she/her or they/them)  
 I live in Los Angeles, CA with my pitbull, [Nova](/nova) 🐾 💜
-
-![Shelby and Nova lying on a bed, with Nova's face very close to the camera](https://i.imgur.com/UWQ72oh.jpg)
 
 ## 💬 contact 💌
 
