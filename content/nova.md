@@ -1,8 +1,11 @@
 ---
 title: "Nova"
-no_paginate: true
+cover: https://i.imgur.com/rxyPUfI.jpg
+aliases: ["/dog"]
 ---
 
 Nova is a rescue pitbull terrier, adopted November 2017.
 
-[Sorry, I had to temporarily take down this page because I'm having an issue with Instagram embeds. Nova will be back soon!]
+{{% tweet-single 1311081970030358529 %}}
+
+{{% tweet 1314586563188199424 %}}
