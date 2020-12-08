@@ -1,9 +1,7 @@
 ---
 title: "I was on 'Screaming in the Cloud'"
 date: 2020-12-08T10:37:45-08:00
-cover: https://i.imgur.com/NaioRSC.jpg
-images:
-  - https://i.imgur.com/NaioRSC.jpg
+cover: "/2020/sitc-cover.png"
 tags:
   - podcasts
   - devrel
