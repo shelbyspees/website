@@ -4,6 +4,4 @@
 
 ## theme
 
-Using [kimcc/hugo-theme-noteworthy](https://github.com/kimcc/hugo-theme-noteworthy).
-My fork lives at [shelbyspees/hugo-theme-noteworthy](https://github.com/shelbyspees/hugo-theme-noteworthy).
-
+Using [hugo-theme-hello-friend-ng/](https://github.com/shelbyspees/hugo-theme-hello-friend-ng/).
