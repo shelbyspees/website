@@ -101,9 +101,9 @@ Since `nova-ears.png` is square, it ends up looking super wonky in the `2:1` rat
 
 ## Hugo layouts
 
-To be honest though, I still felt the need to connect the dots a bit more. Where in [my theme](https://github.com/rhazdon/hugo-theme-hello-friend-ng) is this getting used? (Note: I keep my theme as a git submodule separate from the main content of my website.)
+To be honest though, I still felt the need to connect the dots a bit more. Where in [my theme](https://github.com/shelbyspees/hugo-theme-hello-friend-ng) is this getting used? (Note: I keep my theme as a git submodule separate from the main content of my website.)
 
-Thankfully I know Hugo enough to start in my theme's `layouts/` folder. You would think to go to [`layouts/index.html`](https://github.com/rhazdon/hugo-theme-hello-friend-ng/blob/master/layouts/index.html), but Hugo templating means things are split up a bit more. There's a layer of template beyond that, under `layouts/_default/`:
+Thankfully I know Hugo enough to start in my theme's `layouts/` folder. You would think to go to [`layouts/index.html`](https://github.com/shelbyspees/hugo-theme-hello-friend-ng/blob/main/layouts/index.html), but Hugo templating means things are split up a bit more. There's a layer of template beyond that, under `layouts/_default/`:
 
 ```shell
 $ ls -1 layouts/_default
@@ -120,6 +120,7 @@ The one we want is `layouts/_default/baseof.html`, which we can confirm because 
     <head>
         {{ partial "head.html" . }}
     </head>
+    ...
 ```
 
 (To be honest, it's not immediately clear from the content of `layouts/index.html` that it's using `layouts/_default/baseof.html` under the hood. I've learned a lot of Hugo templating logic just by poking around and adding `testeststests` and `Shelby was here` in random spots to see where it showed up.)
