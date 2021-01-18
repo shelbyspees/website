@@ -25,7 +25,7 @@ That's when I noticed this update:
 
 I asked an organizer in my network, and he was able to confirm that Garcetti's budget has not passed and that we still have time to pressure the city council to reallocate the budget:
 
-{{< tweet 1267544989568884736 >}}
+> As far as I understand, that is correct. The budget is not being discussed because there is no meeting. We have the chance to organize councilmembers to demand cuts to LAPD funding.
 
 Still, I would like to share my story.
 What follows is the email I sent to Councilmember Martinez today, including links.
