@@ -1,11 +1,11 @@
 ---
-title: "Nova"
-cover: https://i.imgur.com/rxyPUfI.jpg
+title: "nova"
 aliases: ["/dog"]
+summary: "Nova is a rescue pitbull terrier, adopted November 2017"
 ---
 
 Nova is a rescue pitbull terrier, adopted November 2017.
 
-{{% tweet-single 1311081970030358529 %}}
+You can follow her on Twitter: [@novaspees](https://twitter.com/novaspees/)
 
-{{% tweet 1314586563188199424 %}}
+{{% twitter-timeline novaspees %}}
