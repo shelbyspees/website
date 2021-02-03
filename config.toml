@@ -58,6 +58,32 @@ googleAnalytics = "UA-178718117-1"
   name = "linkedin"
   url = "https://www.linkedin.com/in/shelbyspees"
 
+# /links page (see layouts/_default/links.html)
+[[params.links]]
+  name = "twitter"
+  url = "https://twitter.com/shelbyspees"
+
+[[params.links]]
+  name = "github"
+  url = "https://github.com/shelbyspees"
+
+[[params.links]]
+  name = "linkedin"
+  url = "https://linkedin.com/in/shelbyspees"
+
+[[params.links]]
+  name = "speaker portfolio"
+  url = "https://speaking.shelbyspees.com"
+
+[[params.links]]
+  name = "observability office hours"
+  url = "https://honeycomb.io/meet/shelby"
+
+[[params.links]]
+  name = "work email"
+  url = "mailto:shelby@honeycomb.io"
+
+# Top nav menu
 [[menu.main]]
   identifier = "posts"
   name = "posts"
