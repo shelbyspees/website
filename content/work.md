@@ -1,5 +1,6 @@
 ---
 title: "work"
+summary: "Shelby Spees is a Developer Advocate at Honeycomb.io. Read about her work."
 ---
 
 I currently work as a Developer Advocate at <a href="https://honeycomb.io/" target="_blank">Honeycomb↗️</a>.
