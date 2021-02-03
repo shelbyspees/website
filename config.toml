@@ -29,9 +29,9 @@ googleAnalytics = "UA-178718117-1"
   logoCursorColor = "#63BDA2"
 
 [params.portrait]
-  path = "/nova-ears.png"
+  path = "/shelby_profile.jpg"
   alt = "Nova ears logo"
-  maxWidth = "600px"
+  maxWidth = "25%"
 
 # Social icons
 [[params.social]]
