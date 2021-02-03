@@ -24,9 +24,8 @@ googleAnalytics = "UA-178718117-1"
   images = ["/twitter-card-large.png"]
 
 [params.logo]
-  logoHomeLink = "/"
+  path = "/nova-ears.svg"
   logoText = "shelbyspees.com"
-  logoCursorColor = "#63BDA2"
 
 [params.portrait]
   path = "/shelby_profile.jpg"
