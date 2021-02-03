@@ -1,5 +1,6 @@
 ---
 title: "Resume"
+summary: "Shelby Spees is a developer advocate and software engineer with five years of experience developing software applications and tooling as well as running web services in production."
 ---
 
 ## Summary
