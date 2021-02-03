@@ -1,15 +1,22 @@
 ---
-title: "reach out"
-cover: https://i.imgur.com/31OIXmG.png
+title: "contact me"
 ---
 
 ## work
 
-- schedule 30 minutes with me: <a href="https://calendly.com/shelbyspees/30min/" target="_blank">observability office hours↗️</a>
-- hit me up in the Pollinators Slack workspace (<a href="https://www.honeycomb.io/blog/spread-the-love-appreciating-our-pollinators-community/" target="_blank">read about it here↗️</a>)
-- email: `shelby at honeycomb.io`
+schedule 30 minutes with me!
+- [observability office hours](https://honeycomb.io/meet/shelby/)
+
+hit me up in Honeycomb's community Slack!
+- [read about Pollinators](https://www.honeycomb.io/blog/spread-the-love-appreciating-our-pollinators-community/)
+
+reach me at my work email:
+- `shelby at honeycomb.io`
 
 ## personal
 
-- <a href="https://twitter.com/shelbyspees/" target="_blank">twitter↗️</a>
-- email: `shelby at hey.com`
+you can always find me on twitter:
+- [@shelbyspees](https://twitter.com/shelbyspees/)
+
+reach me at my personal email:
+- `shelby at hey.com`
