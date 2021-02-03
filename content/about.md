@@ -1,5 +1,6 @@
 ---
 title: "about"
+summary: "About Shelby"
 ---
 
 Hi there 👋  

@@ -1,5 +1,6 @@
 ---
 title: "stuff I use"
+summary: "Shelby's list of electronics and other workspace stuff"
 toc: true
 ---
 

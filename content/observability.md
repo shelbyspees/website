@@ -1,5 +1,6 @@
 ---
 title: "Observability Resources"
+summary: "A short list of my favorite resources to start you on your observability journey"
 aliases: [
   "o11y",
 ]

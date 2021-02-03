@@ -1,5 +1,6 @@
 ---
 title: "contact me"
+summary: "Contact information for Shelby Spees"
 ---
 
 ## work
