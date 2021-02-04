@@ -37,24 +37,20 @@ googleAnalytics = "UA-178718117-1"
   url = "https://twitter.com/shelbyspees"
 
 [[params.social]]
-  name = "twitch"
-  url = "https://www.twitch.com/shelbyspees"
-
-[[params.social]]
   name = "github"
   url = "https://github.com/shelbyspees"
 
 [[params.social]]
-  name = "dev"
-  url = "https://dev.to/shelbyspees"
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/shelbyspees"
 
 [[params.social]]
   name = "notion"
   url = "https://notes.shelbyspees.com"
 
 [[params.social]]
-  name = "linkedin"
-  url = "https://www.linkedin.com/in/shelbyspees"
+  name = "rss"
+  url = "/posts/index.xml"
 
 # /links page (see layouts/_default/links.html)
 [[params.links]]
