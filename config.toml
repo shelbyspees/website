@@ -12,7 +12,7 @@ googleAnalytics = "UA-178718117-1"
 
 
 [author]
-  name = "Shelby Spees"
+  name = "shelby spees"
 
 [params]
   defaultTheme = "light"
@@ -29,8 +29,7 @@ googleAnalytics = "UA-178718117-1"
 
 [params.portrait]
   path = "/shelby_profile.jpg"
-  alt = "Nova ears logo"
-  maxWidth = "25%"
+  alt = "Shelby Spees headshot"
 
 # Social icons
 [[params.social]]
