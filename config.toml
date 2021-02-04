@@ -22,6 +22,7 @@ googleAnalytics = "UA-178718117-1"
   gitUrl = "https://github.com/shelbyspees/website/commit/"
   description = "shelby spees: developer advocate, dog mom, etc."
   images = ["/twitter-card-large.png"]
+  footerSocial = true
 
 [params.logo]
   path = "/nova-ears.svg"
