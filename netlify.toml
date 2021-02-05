@@ -3,6 +3,9 @@ command = "git submodule update --init --recursive --depth=1 && hugo --minify"
 [build.environment]
 HUGO_VERSION = "0.72.0"
 
+[context.branch-deploy.environment]
+  HUGO_BASEURL = "/"
+
 [[redirects]]
   from = "/threads"
   to = "/categories/twitter-threads"
