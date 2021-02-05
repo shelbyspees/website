@@ -92,15 +92,15 @@ googleAnalytics = "UA-178718117-1"
   weight = 3
 
 [[menu.main]]
-  identifier = "about"
-  name = "about"
-  url = "/about/"
+  identifier = "work"
+  name = "work"
+  url = "/work/"
   weight = 4
 
 [[menu.main]]
-  identifier = "contact"
-  name = "contact"
-  url = "/contact/"
+  identifier = "about"
+  name = "about"
+  url = "/about/"
   weight = 5
 
 [markup.goldmark.renderer]
