@@ -16,7 +16,6 @@ googleAnalytics = "UA-178718117-1"
 
 [params]
   defaultTheme = "light"
-  homeSubtitle = "developer advocate, dog mom, etc."
   mainSections = ["posts"]
   showReadMore = true
   gitUrl = "https://github.com/shelbyspees/website/commit/"
@@ -25,8 +24,8 @@ googleAnalytics = "UA-178718117-1"
   footerSocial = true
 
 [params.logo]
-  path = "/nova-ears.svg"
-  logoText = "shelbyspees.com"
+  logoText = "shelby spees"
+  logoCursorDisabled = true
 
 [params.portrait]
   path = "/shelby_profile.jpg"
