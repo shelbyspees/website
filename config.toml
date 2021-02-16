@@ -70,6 +70,10 @@ googleAnalytics = "UA-178718117-1"
   url = "https://speaking.shelbyspees.com"
 
 [[params.links]]
+  name = "learn about observability"
+  url = "/o11y/"
+
+[[params.links]]
   name = "observability office hours"
   url = "https://honeycomb.io/meet/shelby"
 
