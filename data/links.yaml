@@ -1,0 +1,14 @@
+- name: check out my work
+  url: https://work.spees.dev
+- name: find me on twitter
+  url: https://twitter.com/shelbyspees
+- name: add me on linkedin
+  url: https://linkedin.com/in/shelbyspees
+- name: check out my github
+  url: https://github.com/shelbyspees
+- name: get my speaker bio and headshots
+  url: https://speaking.shelbyspees.com/bio
+- name: read my informal tech notes
+  url: https://notes.shelbyspees.com
+- name: view my resume
+  url: /resume

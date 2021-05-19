@@ -52,27 +52,6 @@ googleAnalytics = "UA-178718117-1"
   name = "rss"
   url = "/posts/index.xml"
 
-# /links page (see layouts/_default/links.html)
-[[params.links]]
-  name = "twitter"
-  url = "https://twitter.com/shelbyspees"
-
-[[params.links]]
-  name = "github"
-  url = "https://github.com/shelbyspees"
-
-[[params.links]]
-  name = "linkedin"
-  url = "https://linkedin.com/in/shelbyspees"
-
-[[params.links]]
-  name = "my work"
-  url = "https://work.spees.dev"
-
-[[params.links]]
-  name = "tech notes"
-  url = "https://notes.shelbyspees.com"
-
 # Top nav menu
 [[menu.main]]
   identifier = "posts"
