@@ -1,100 +1,114 @@
 ---
 title: "Resume"
-summary: "Shelby Spees is a developer advocate and software engineer.
-  Read her resume."
 ---
 
-## Summary
+Shelby Spees is a polyglot software engineer
+with experience developing libraries and CLI tools
+as well as maintaining configuration-as-code, infrastructure-as-code,
+and build tooling for production web services.
 
-Developer Advocate & Software Engineer
+<!--more-->
 
-- Developing software applications and tooling since 2015
-- Producing written and spoken technical content since 2015
-- Maintaining package build and release pipelines since 2016
-- Running web services in production since 2018
+Languages used professionally: Ruby, Python, Java, C++
+
+Tooling used professionally: Terraform, Chef, Ansible, CircleCI, TravisCI,
+Jenkins
 
 ## Experience
 
 **Developer Advocate**, March 2020 to present  
 Honeycomb.io (remote)
 
-- Wrote and presented technical talks on software operations,
-  observability, Site Reliability Engineering, and DevOps
-  (see my [speaking portfolio](https://speaking.shelbyspees.com))
-- Authored instructional content for the company blog, technical docs site,
-  and gated downloadable assets
-  ([see the blog posts I've authored](https://honeycomb.io/author/shelby/))
-- Managed the company blog editorial pipeline and calendar from April 2020
-  to February 2021, collaborating with authors and teams across the organization
-  to develop high-quality content in support of company goals
-- Performed copy editing and technical review on content
-  including blog posts, website pages, and social media posts
-- Lead calls alongside sales and customer success team members
-  to advise prospective and current Honeycomb customers on account matters
 - Captured detailed user feedback from customers and the community
-  to support and shape the product roadmap
+  to support and shape the UI and integrations product roadmap
+- Lead calls solo and alongside sales and customer success team members
+  to advise prospective and current Honeycomb customers on instrumentation,
+  managing data volume, and using the product UI
+- Authored instructional tutorials for the company blog
+  and gated downloadable assets
+- Authored and maintained technical user-facing documentation
+- Refactored integrations documentation to use subpages,
+  allowing reuse of code samples on multiple pages for a single source of truth
+  without sacrificing navigability
+- Wrote and presented technical talks at over 15 industry and community events
+  from June 2020 to May 2021
+- Managed the company blog from April 2020 to February 2021,
+  collaborating with authors to develop technical and editorial content
+  to promote Honeycomb's reputation as a strong engineering organization
+- Developed project management system for the company blog editorial pipeline,
+  separating the writing, editing, staging, and publishing steps of the process
+  to enable parallelization and delegation of each type of work
+- Validated, revised, and reorganized user-facing documentation
+  leading up to the launch of Refinery, Honeycomb's trace-aware sampling proxy
 
 **DevOps Engineer**, June 2018 to March 2020  
 true[X], Los Angeles, CA
 
-- Safely upgraded Chef version on backend systems via gradual upgrade
-  of 42 Chef cookbooks and AMI rollout across 14 production apps
-- Organized and expanded technical onboarding documentation,
-  incorporating company-internal git etiquette guidelines
-- Updated and expanded documentation on DevOps processes and capabilities,
-  most notably for New App requests
-- Developed `terraform plan` Jenkins jobs to simplify and document
-  infrastructure changes and PRs
+- Updated configuration-as-code from Chef 12 to Chef 14
+  via gradual upgrade of 42 interdependent Chef cookbooks,
+  rolling out new AMIs across 14 production services
+- Safely upgraded infrastructure from Ubuntu 16.04 to Ubuntu 18.04
+  across QA and production clusters using conditional configuration blocks
+  in Chef code
 - Created Chef configurations for new Rails, Node, and Flask apps
-- Pruned team's Chef ecosystem of dead code and unused dependencies
+  running on Ubuntu 16.04 and 18.04
+- Deployed new services on AWS EC2 using Terraform to manage load balancing,
+  autoscaling, security groups, and other network configuration
+- Refactored Terraform code to support the team's first gRPC application
+  in production, including allowing for a separate HTTP ALB listener
+  for health checks
+- Created daily Jenkins jobs running Terraform plan to identify
+  infrastructure drift
+- Formalized process for requesting infrastructure for new services,
+  including a new production-readiness checklist
+- Pruned team’s Chef codebase of dead code and unused dependencies
 
 **Site Reliability Engineer**, August 2017 to January 2018  
 Grindr, West Hollywood, CA
 
-- Worked with SRE team to reduce downtime and cost,
-  improve existing infrastructure, and migrate to new infrastructure
 - Developed rpm package build orchestration tool in Ruby
-  to enable CI/CD for CentOS 7 packages: github.com/grindrlabs/revolution
-- Mentored junior colleagues, teaching team collaboration skills
-  such as Git workflows
+  to enable CI/CD for CentOS 7 packages: <github.com/grindrlabs/revolution>
+- Implemented tree-traversal algorithm for package dependency resolution
+- Streamlined team's ticketing system to better visually reflect
+  work-in-progress, facilitating prioritization conversations
+  with engineering management and other stakeholders
 
 **Software Engineer**, September 2015 to August 2017  
 The Aerospace Corporation, El Segundo, CA
 
+Project: DyCAST
+
 - Designed and implemented Java translation tool using a custom ANTLR4 grammar
   to parse ~200,000 lines of legacy code in a proprietary language
-- Developed test suite to validate grammar changes as well as a script
-  to measure translation progress against the legacy codebase
-- Built custom listener and templates to compile parsed input into C++
-- Developed and iterated onboarding documentation--
-  2016 summer interns were pushing code within two weeks
-- Presented progress and value-add for three levels of management
-  in June and July 2016
-- Taught two sessions of PySOAP: A Hands-On Tutorial course for a total of
-  18 analysts in March and April 2016
-- Acted as interim Software Lead from June to October 2016
-- Lead a 2-day design sprint involving 20 power users organized into teams
-  for API design feedback
-- Migrated codebase and issues to Atlassian tool suite for
-  improved project management, developer documentation, and code sharing
+- Developed test suite to validate grammar changes against legacy codebase
+  using custom pretty printer tool
+- Built custom listener and templates to compile parsed input into C++,
+  with automated unit tests running C++ output code
+
+Project: PySOAP
+
+- Developed and maintained Python library for interfacing with Aerospace's
+  Satellite Orbit Analysis Program proprietary data format via TCP/IP
+- Maintained org-internal PyPI repository for hosting packages
+- Proposed API redesign and gathered feedback from over 20 technical stakeholders
+- Authored user-facing API documentation and workshop content
 
 **Software Engineer Intern**, June 2015 to August 2015  
 The Aerospace Corporation, El Segundo, CA
 
-- Implemented proof-of-concept pretty printer tool in Java
-  using custom ANTLR4 grammar to parse ModSim III legacy code
-- Developed Python scripts to reformat launch mission database files,
-  integrating existing VBA macros into a more automated process
-- Reduced 25-step process down to 6 steps, minimizing potential for user error
+- Implemented pretty printer tool in Java using custom ANTLR4 grammar
+  to parse and print ModSim III legacy code as a proof-of-concept
+  for the DyCAST translator project
+- Developed Python scripts integrating existing VBA macros
+  to reduce 25-step reformatting process for launch mission database files
+  down to 6 steps, in order to minimize the potential for user error
   in the case of last-minute critical data updates before a launch window
 
 **QA Automation Intern**, December 2014 to March 2015  
 XYPRO Technology, Simi Valley, CA
 
-- Developed automated tests for security dashboard web application
-- Expanded and refactored UI and API test suite in Ruby using Watir-Webdriver
-- Researched and documented unique test cases for
-  HP Enterprise NonStop server software
+- Developed automated test suite for security dashboard web application
+  for HP Enterprise NonStop server software using Watir-Webdriver in Ruby
 
 ## Education
 
