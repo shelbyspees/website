@@ -3,23 +3,25 @@ title: "Bio"
 slug: bio
 ---
 
-Short bio (250 characters):
+## Short bio (250 characters)
 
-> Shelby Spees is a Developer Advocate at Honeycomb,
-> where she helps developers better understand their services in production
-> in order to deliver more business value.
-> She lives in Los Angeles, CA, where she enjoys doing karaoke
-> with her pitbull, Nova.
+Shelby is a software engineer and DevOps advocate
+dedicated to improving access and equity in tech,
+and helping more people feel great about their work.
 
-Full bio (487 characters):
+Shelby lives in Los Angeles, CA
+where she enjoys making up songs about her rescue pitbull, Nova.
 
-> Shelby Spees is a Developer Advocate at Honeycomb,
-> where she helps developers better understand their services in production
-> in order to deliver more business value.
-> Before joining Honeycomb, Shelby worked on applications,
-> build pipelines, infrastructure, and other reliability efforts.
-> She’s dedicated to improving access and equity in tech
-> as well as to helping people feel good about their work.
->
-> Shelby lives in Los Angeles, CA, where she enjoys doing karaoke
-> with her pitbull, Nova.
+## Full bio (497 characters)
+
+Shelby is a software engineer and DevOps advocate
+dedicated to improving access and equity in tech,
+and helping more people feel great about their work.
+She's been writing software professionally since 2015,
+developing libraries and build tooling as well as
+managing production web services.
+You'll often find her automating herself out of a job
+and drafting project proposals that nobody asked for.
+
+Shelby lives in Los Angeles, CA
+where she enjoys making up songs about her rescue pitbull, Nova.
