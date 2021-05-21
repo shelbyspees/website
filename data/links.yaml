@@ -6,8 +6,8 @@
   url: https://linkedin.com/in/shelbyspees
 - name: check out my github
   url: https://github.com/shelbyspees
-- name: get my speaker bio and headshots
-  url: https://speaking.shelbyspees.com/bio
+- name: get my speaker bio
+  url: /bio
 - name: read my informal tech notes
   url: https://notes.shelbyspees.com
 - name: view my resume
