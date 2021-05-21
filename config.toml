@@ -19,7 +19,7 @@ googleAnalytics = "UA-178718117-1"
   mainSections = ["posts"]
   showReadMore = true
   gitUrl = "https://github.com/shelbyspees/website/commit/"
-  description = "shelby spees: developer advocate, dog mom, etc."
+  description = "Shelby Spees is a software engineer and DevOps advocate dedicated to improving access and equity in tech."
   images = ["/twitter-card-large.png"]
   footerSocial = true
 
