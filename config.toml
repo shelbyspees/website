@@ -1,7 +1,7 @@
 baseURL = "https://shelbyspees.com"
 languageCode = "en-us"
 theme = "hello-friend-ng"
-title = "shelby spees"
+title = "Shelby Spees"
 
 paginate = 15
 enableGitInfo = true
@@ -12,7 +12,7 @@ googleAnalytics = "UA-178718117-1"
 
 
 [author]
-  name = "shelby spees"
+  name = "Shelby Spees"
 
 [params]
   defaultTheme = "light"
@@ -20,6 +20,7 @@ googleAnalytics = "UA-178718117-1"
   showReadMore = true
   gitUrl = "https://github.com/shelbyspees/website/commit/"
   description = "Shelby Spees is a software engineer and DevOps advocate dedicated to improving access and equity in tech."
+  homeSubtitle = "Software Engineer and DevOps Advocate"
   images = ["/twitter-card-large.png"]
   footerSocial = true
 
@@ -27,9 +28,9 @@ googleAnalytics = "UA-178718117-1"
   logoText = "shelby spees"
   logoCursorDisabled = true
 
-[params.portrait]
-  path = "/shelby_profile.jpg"
-  alt = "Shelby Spees headshot"
+# [params.portrait]
+#   path = "/shelby_profile.jpg"
+  # alt = "Shelby Spees headshot"
 
 # Social icons
 [[params.social]]
