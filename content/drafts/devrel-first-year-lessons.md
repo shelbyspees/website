@@ -1,7 +1,6 @@
 ---
 title: "One Year of Developer Advocacy (Part 3: Lessons)"
 slug: one-year-developer-advocate-part-3-lessons
-date: 2021-04-25T17:45:18-07:00
 draft: true
 tags:
   - career

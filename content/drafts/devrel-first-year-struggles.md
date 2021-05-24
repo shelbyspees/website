@@ -1,7 +1,6 @@
 ---
 title: "One Year of Developer Advocacy (Part 2: Struggles)"
 slug: one-year-developer-advocate-part-2-struggles
-date: 2021-04-25T16:57:38-07:00
 draft: true
 tags:
   - career

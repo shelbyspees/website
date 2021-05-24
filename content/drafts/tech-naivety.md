@@ -1,6 +1,5 @@
 ---
 title: "Tech Naivety"
-date: 2021-04-01T11:38:31-07:00
 draft: true
 tags:
   - untagged
