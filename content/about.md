@@ -12,4 +12,4 @@ I live in Los Angeles, CA with my dog [Nova](/nova) 🐶 🐾
 
 Here, have some links:
 
-{{% link-buttons %}}
+{{% links %}}
