@@ -10,9 +10,13 @@ googleAnalytics = "UA-178718117-1"
 [permalinks]
   posts = "/:year/:month/:day/:slug/"
 
-
 [author]
   name = "Shelby Spees"
+
+[taxonomies]
+  tags = "tags"
+  categories = "categories"
+  series = "series"
 
 [params]
   defaultTheme = "light"
