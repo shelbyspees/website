@@ -1,8 +1,7 @@
 ---
 title: "Updating Hugo themes to use semantic HTML"
 slug: hugo-themes-semantic-html
-date: 2021-05-12T23:21:50-07:00
-images:
+date: 2021-05-23T15:58:39-07:00
 draft: true
 tags:
   - hugo
@@ -22,64 +21,67 @@ Is that so much to ask?
 
 I don't claim to be the arbiter of what is or isn't accessible.
 There are web accessibility experts out there, please listen to them.
+I'm just trying to apply the standards I'm aware of
+and maybe convince more people to care about making their content accessible.
 
-I'm also not a frontend web developer and there's a lot I don't know,
-so I fully expect I've said something incorrect in this post.
+I'm also not a frontend web developer.
+There's a lot I don't know.
+I fully expect I've said something inaccurate in this post.
 Please [reach out via Twitter](https://twitter.com/shelbyspees)
 with any corrections or feedback.
 
-One thing I can say is that accessibility isn't binary.
-A change that makes a site more accessible to some
-can make the same site less accessible to others.
-For example, people with low vision can benefit from more color contrast,
-but this can trigger migraines for people with sensitive eyes.
+One thing I can say with some confidence is that accessibility isn't binary.
+A change that makes content more accessible to some
+can make the same content less accessible to others.
+For example, people with low vision can benefit from higher color contrast,
+but high contrast can trigger migraines for people with light sensitivity.
 
-The standards and practices I'm referencing in this post are the result of
-decades of research by web accessibility experts.
-They've done the work to figure out how to write these standards
-such that web content will be accessible to as many people as possible.
+Still, the standards and practices I'm referencing in this post
+are the result of decades of research by web accessibility experts.
+They've written these standards while considering
+the tradeoffs between conflicting accessibility needs
+in order to make web content accessible to as many people as possible.
+I doubt I could do much better than that with my limited knowledge,
+so while they're not perfect, I think these standards are worth following.
 
-Finally, the Hugo theme on my personal site doesn't even use semantic HTML 😬
-Yeah, I have some work to do.
+Finally, I realize that the Hugo theme on my personal site
+doesn't even use semantic HTML consistently.
+It's better than it was, sure, but I still have some work to do.
 
 ## `hugo new .`
 
-I set up a couple new [Hugo](https://gohugo.io) sites the past few months--
-most recently [ADHDevOps.club](https://adhdevops.club).
-It's been a bit frustrating trying to choose Hugo themes
+I set up a couple new [Hugo](https://gohugo.io) sites
+the past few months---most recently [ADHDevOps.club](https://adhdevops.club).
+With the desire to just set something up quickly,
+Hugo made the most sense since I have a decent amount of experience with it.
+Unfortunately, it's been a bit frustrating trying to choose Hugo themes
 because very few of them both suit my needs for the site
 and actually meet accessibility standards.
 
-I switched from Jekyll to Hugo for my personal site a few years ago.
-It became popular around 2016-2017, which is when most of the recommended themes
-were created, and I think I made the switch in 2018.
-We also use Hugo for [the docs site at Honeycomb](https://docs.honeycomb.io)
-so I've had the opportunity to become relatively knowledgable about it.
-
-I've been noticing many of these same issues for my own blog
-(the site you're looking at---unless you're reading this via RSS I guess).
-While I do maintain
-[a custom fork of the hello-friend-ng](https://github.com/shelbyspees/hugo-theme-hello-friend-ng/)
-theme for my site,
-I'd been thinking I could start to upstream some of my changes---like
-the new social icons I added---and attempt to do a better job
-maintaining separation of concerns between style/layout and content.
+I started using Hugo a few years ago
+after switching my personal site from Jekyll.
+We also use Hugo for [the docs site at Honeycomb](https://docs.honeycomb.io),
+so I've had the opportunity to become relatively familiar it.
+It seems like Hugo got popular around 2016-2017---at least
+that's when a lot of the themes I looked at were created.
 
 For ADHDevOps specifically, I wanted a Hugo blog theme
-that passes the WAVE accessibility checker (tested with the
+that passed the WAVE accessibility checker's requirements (tested with the
 [Chrome extension](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)),
-and could support a few specific features I wanted without having to overwrite
-more than a couple of the theme's templates.
-These are the features I wanted:
+and could support a few specific features I wanted
+without having to overwrite more than a couple of the theme's templates.
+The features I wanted include:
 
 - custom home page content (not just a list of posts)
-- a different author for every blog post, set in the front matter
-- tags and/or categories
+- blog post author set in the front matter to allow for many guest authors
+- tags and/or categories (these usually come out of the box)
 - static non-blog-post pages
-- minimal CSS changes to meet my design needs (plus color contrast requirements)
+- clean, minimal design
+- light and dark mode
+- colors meet contrast requirements for accessibility
 
 In general, Hugo makes it relatively easy to accomplish the things on my list.
-But the themes I looked at tend to hard-code a bunch of stuff,
+But many of the themes I looked at had hard-coded paths or layouts,
 making it hard to build on otherwise high-quality, simple styles.
 In the end, I couldn't find a single theme that checked all of these boxes
 without having to overwrite a bunch of the layouts
@@ -91,30 +93,52 @@ Maybe semantic HTML wasn't as much of a thing in 2016?
 I mean, I remember learning about semantic elements in HTML5
 back when I first dug into the MDN docs in 2015 🤷
 
-In any case, it's 2021 now. I went and looked it up: how recent is all this?
+In any case, it's 2021 now.
+Web assessibility has been around for a while, right?
+My own curiosity piqued, I went and looked it up: how recent is all this?
 
 It turns out that version 2.0 of the
 [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)
 were published in 2008 and became ISO standard in 2012.
 HTML5 was also released in 2008 and given "W3C Recommendation" status in 2014.
+
 Compare that to WebAssembly, which was first announced in 2015
 and only reached "W3C Recommendation" status in 2019.
-My unscientific feeling is that frontend dev teams have been seriously debating
-rewriting their sites to use WebAssembly when they never even considered
-investing equivalent (or less!) time and resources to update those same sites
-in order to meet accessibility standards.
+My unscientific feeling (informed by the reality of the tech industry)
+is that there are frontend dev teams seriously debating
+rewriting their sites to use WebAssembly when they never once considered
+investing equivalent (or less!) time and resources
+to meet accessibility standards established a decade ago.
 
 C'mon, folks. We're long overdue.
 Semantic HTML should be considered basic website hygiene.
 Especially on a static site, FFS.
 
-## Themes I tried TODO
+## Overwriting Hugo themes
 
-The first theme I picked was [Book]().
-I thought
-Pretty much all the content lived under this hard-coded `/docs` path 😭.
-I would have had to overwrite (FIXME how many?) layouts!
-I let it sit like this for a week while chewing on how to proceed.
+One thing to know about Hugo is that themes are traditionally set up
+by adding them to your site repo as [Git submodules]().
+More modern themes allow you to import them as [Go/Hugo modules](),
+but the themes I was looking at hadn't been updated in several years.
+
+## The themes I looked at
+
+The first theme I picked was [Book](https://themes.gohugo.io/hugo-book/).
+I was imagining that the ADHDevOps site would eventually grow
+into a sort of wiki, a reference guide for
+all the great ADHD content and tools out there.
+I thought a site more oriented toward technical documentation made sense,
+and I liked how the Book theme behaved like a sort of blank slate.
+
+Unfortunately, this theme kept pretty much all its content
+under a hard-coded `/docs` path.
+To remove `/docs` from the URL
+I would have had to overwrite nearly all the layouts!
+(Now that I think about it, there's probably a way to fix this
+using the site config...welp too late now.)
+At this point I'd only published the site's intro post,
+so even though I already knew I wanted to change the theme
+I let it sit for a week and chewed on how to proceed.
 
 Then I was looking at [Anubis]().
 This is the theme used as an example in Hugo's quick start documentation.
@@ -122,38 +146,44 @@ I was _hoping_ this would mean that the theme would be flexible
 and meet accessibility standards.
 Yeah no.
 
-I briefly considered [???]() alongside Anubis,
-which turned out to require even more custom layout work
-than either Book or Anubis.
+I briefly considered [???]() alongside Anubis
 After editing the layouts a bit and rebasing to isolate theme-specific changes,
-I set up branch deploys for each and decided I liked Anubis better,
-especially since (???)'s color contrast was abysmal
-and I was trying to avoid overwriting all the CSS.
-Oh, sweet summer child.
+I set up branch deploys for each and decided I liked Anubis better.
+Plus, ??? would have required even more custom layout and styling
+than either Book or Anubis---(???)'s color contrast was abysmal.
+I was really trying to avoid overwriting all the CSS.
+Oh, sweet summer child...
 
-I did love Anubis's theme toggle button
-(which only required a single-line config change to enable),
-the layout didn't spark joy.
+In comparison, Anubis met slightly more of my requirements.
+The dark/light theme toggle was great,
+plus it only required a single-line config change to enable.
+While the color contrast in dark mode was slightly _too_ high,
+it was easy enough to overwrite the background color to make it more muted.
+I didn't love the top navbar but I didn't want to overthink it either.
+
+Unfortunately, Anubis didn't spark joy.
 I felt the urge to keep searching for the perfect theme.
 
 The next day I found [Ezhil]().
-I've always been a fan of the [Raleway font]()
-I tried it out on localhost and it felt _right_.
-It sat uncommitted in my index for a wee
+I've always been a fan of the [Raleway font]()---I've since updated
+the body font on my personal site to use Raleway as well.
+I tried Ezhil out on localhost and it felt _right_.
+Unfortuntely it was a Monday and I had actual work to do.
+The new theme sat uncommitted in my index for a week
 before I carved out my Saturday afternoon to try deploying the change.
 
 Migration isn't a huge deal on simple Hugo sites,
 but I had just spent the previous weekend overwriting layouts
 for two entirely different themes.
 I had custom code everywhere.
-I didn't mind deleting code that much,
-but I wanted to feel confident about my choice.
+I generally don't mind deleting code that much,
+but after all that fiddling I wanted to feel confident about my choice.
 
 After several hours of overwriting layouts and CSS once again
 (this theme didn't even use a preprocessor!)
 and getting annoyed about `<div class="main">`,
 it finally hit me: no theme is going to check all my boxes.
-I'm too picky.
+I'm just too picky.
 
 ## Fuck it, I'll fork it
 
