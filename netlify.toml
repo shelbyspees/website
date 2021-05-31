@@ -17,3 +17,6 @@ HUGO_VERSION = "0.72.0"
   to = "https://shelbyspees.com/nova/:splat"
   status = 301
   force = true
+
+[functions]
+  directory = "functions"
