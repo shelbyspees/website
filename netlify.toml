@@ -30,7 +30,7 @@ HUGO_VERSION = "0.72.0"
 
 [[redirects]]
   from = "https://notes.spees.dev/*"
-  to = "https://notes.shelbyspees.com/"
+  to = "https://notes.shelbyspees.com/:splat"
   status = 301
   force = true
 
