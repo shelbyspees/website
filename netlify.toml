@@ -33,6 +33,3 @@ HUGO_VERSION = "0.72.0"
   to = "https://notes.shelbyspees.com/:splat"
   status = 301
   force = true
-
-[functions]
-  directory = "functions"
