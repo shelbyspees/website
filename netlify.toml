@@ -18,5 +18,12 @@ HUGO_VERSION = "0.72.0"
   status = 301
   force = true
 
+[[redirects]]
+  from = "https://notes.spees.dev/*"
+  to = "https://notes.shelbyspees.com/"
+  status = 301
+  force = true
+
+
 [functions]
   directory = "functions"
