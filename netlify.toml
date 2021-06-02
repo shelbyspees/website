@@ -1,5 +1,15 @@
 command = "git submodule update --init --recursive --depth=1 && hugo --minify"
 
+[build]
+  publish = "public"
+
+[[plugins]]
+  package = "netlify-plugin-hugo-cache-resources"
+
+	[plugins.inputs]
+	# If it should show more verbose logs (optional, default = true)
+	debug = true
+
 [build.environment]
 HUGO_VERSION = "0.72.0"
 
@@ -23,7 +33,6 @@ HUGO_VERSION = "0.72.0"
   to = "https://notes.shelbyspees.com/"
   status = 301
   force = true
-
 
 [functions]
   directory = "functions"
