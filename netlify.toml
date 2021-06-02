@@ -14,7 +14,7 @@ HUGO_VERSION = "0.72.0"
 
 [[redirects]]
   from = "https://nova.spees.dev/*"
-  to = "https://shelbyspees.com/nova/:splat"
+  to = "https://spees.dev/nova/:splat"
   status = 301
   force = true
 
