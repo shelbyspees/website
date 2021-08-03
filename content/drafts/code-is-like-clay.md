@@ -1,8 +1,7 @@
 ---
 title: "Code is like clay"
 slug: code-is-like-clay
-date: 2021-06-16T09:39:45-07:00
-draft: true
+date: 2021-07-29T19:59:24-07:00
 images:
 tags:
   - software
@@ -10,15 +9,33 @@ tags:
   - learning
 ---
 
-I recently thought of this metaphor and I'm pretty proud of it 😅:
+Apologies for the contrived metaphor.
+I can't get this one out of my head.
 
-Code is like clay.
-The goal is to never let it harden.
+**Code is like clay.
+The goal is to never let it harden.**
 
 <!-- more -->
 
-GitHub has the idea of stale branches.
+The metaphor itself---this idea of freshness---isn't that novel.
+GitHub already has the idea of stale branches.
 Detectives and hunters might say that a trail went cold.
+
+But freshness alone isn't sufficient to describe what I'm talking about.
+Fruit goes rotten, bread gets moldy,soda goes flat if it's left out for too long.
+You can slow the process, but mainly you just try to consume your food before it spoils.
+Once it goes bad, it costs more to salvage the food than it would be to replace it.
+
+So if the food freshness analogy falls short, what am I trying to talk about?
+The important part for code isn't newness or freshness of the code itself.
+What's important is how easy it is to change, to reshape, to mold.
+
+(Disclaimer: the last time I played with clay was probably elementary school? If anyone wants to buy me a Groupon for a clay spinning class I'd be down.)
+
+Working with fresh code is like working with fresh clay, easy to manipulate.
+Working with stale code that hasn't been touched for a long time is like working with dried-out clay: it's hard and brittle, easy to break.
+And the half-life on code freshness is short,
+so part of our job as software custodians is to keep it fresh by _proactively_ molding it.
 
 ## I'm not original
 
@@ -34,12 +51,14 @@ an equivalent change would be on anything that requires physical materials.
 
 While this is trivially true, I don't think it applies to most of the code we care about
 because code we care about almost universally lives in a complex system.
-Even with the best possible design with the strictest separation of concerns,
+Even with the most modular possible design with the strictest separation of concerns,
 [changes to code within a complex system
 can have unintended and unpredictable ripple effects](https://how.complexsystems.fail).
 
 On a more practical level:
 how often are software teams given the space to do a complete rewrite of a component?
+(Arguably, software practitioners shouldn't ask management for bandwidth to rebuild things,
+we should just collectively support each other making shit more maintainable.)
 
 Another use of the metaphor is this
 [blog post from 2017](https://www.upbeat.it/programming-languages-and-clay/).
@@ -49,8 +68,6 @@ someone I don't exactly want to promote).
 
 
 I also discovered a [startup in Brooklyn called Clay](https://www.clay.run).
-
-
 
 
 ## Why not let it harden?
