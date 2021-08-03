@@ -6,16 +6,16 @@ I'm testing things at a few different levels as I meander through.
 
 Intro to JS:
 
-- Can I manipulate the DOM with vanilla JS in my browser?
-    - You're calling the script correctly, Shelby! You were just accessing the wrong property.
+- Can I manipulate the DOM with vanilla JS in my browser¡?
+  - You're calling the script correctly, Shelby! You were just accessing the wrong property.
 
 Neat script things:
 
 - Can I run this as a node script?
 - Can I launch the headless browser?
-    - I got this working for [shelbyspees/og-script](https://github.com/shelbyspees/og-script) the other day
-    - I'm not sure I ever got it working for the version in this repo
-    - May be helpful: https://github.com/alixaxel/chrome-aws-lambda/wiki/HOWTO:-Local-Development
+  - I got this working for [shelbyspees/og-script](https://github.com/shelbyspees/og-script) the other day
+  - I'm not sure I ever got it working for the version in this repo
+  - May be helpful: https://github.com/alixaxel/chrome-aws-lambda/wiki/HOWTO:-Local-Development
 - Can I get the headless browser to load my HTML template?
 
 Netlify Functions:

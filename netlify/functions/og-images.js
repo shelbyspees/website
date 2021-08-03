@@ -1,40 +1,51 @@
-const chromium = import('chrome-aws-lambda');
-const fs = import('fs-extra');
-const path = import('path');
+const fs = require('fs-extra');
+const path = require('path');
+const puppeteer = require('puppeteer');
 
 console.log('inside og-images.js!');
 
-exports.handler = async (event, context, callback) => {
-  let result = null;
-  let browser = null;
+(async () => {
+  const browser = await puppeteer.launch();
+  const page = await browser.newPage();
 
-  try {
-    browser = await chromium.puppeteer.launch({
-      args: chromium.args,
-      defaultViewport: chromium.defaultViewport,
-      executablePath: await chromium.executablePath,
-      headless: chromium.headless,
-      ignoreHTTPSErrors: true,
-    });
+  let html = (
+    await fs.readFile(path.resolve(__dirname, './og-template.html'))
+  ).toString();
 
-    let page = await browser.newPage();
-    // let html = (
-    //   await fs.readFile(path.resolve(__dirname, './og-template.html'))
-    // ).toString();
-
-    result = await page.title();
-  } catch (error) {
-    return callback(error);
-  } finally {
-    if (browser !== null) {
-      await browser.close();
-    }
-  }
-
-  return callback(null, {
-    statusCode: 200,
-    body: JSON.stringify(sample(emoji)),
+  let avatar = await fs.readFile(path.resolve(__dirname, './onsen.jpg'), {
+    encoding: 'base64',
   });
-};
+  html = html.replace(
+    './onsen.jpg',
+    `data:image/jpeg;charset=utf-8;base64,${avatar}`
+  );
 
-exports.handler(null, null, console.log);
+  let font = await fs.readFile(path.resolve(__dirname, './Raleway-ExtraLight.ttf'), {
+    encoding: 'base64',
+  });
+  html = html.replace(
+    "'./Raleway-ExtraLight.ttf'",
+    `data:application/x-font-ttf;charset=utf-8;base64,${font}`
+  );
+
+  await page.setContent(html, {
+    waitUntil: ['domcontentloaded'],
+  });
+
+  await page.evaluateHandle('document.fonts.ready');
+
+  await page.setViewport({
+    width: 1200,
+    height: 632,
+    deviceScaleFactor: process.env.NETLIFY === 'true' ? 1 : 2,
+  });
+
+  await page.screenshot({
+    path: `example.jpeg`,
+    type: 'jpeg',
+    quality: 100,
+    clip: { x: 0, y: 0, width: 1200, height: 632 },
+  });
+
+  await browser.close()
+})();
