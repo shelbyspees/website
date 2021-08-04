@@ -20,7 +20,7 @@ Technologies used professionally:
 
 ## Experience
 
-**Developer Advocate**, March 2020 to present  
+**Developer Advocate**, March 2020 to June 2021  
 Honeycomb.io (remote)
 
 - Wrote and presented technical talks at industry and community events
