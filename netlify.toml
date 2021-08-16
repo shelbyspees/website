@@ -11,7 +11,7 @@ command = "git submodule update --init --recursive --depth=1 && hugo --minify"
 	debug = true
 
 [build.environment]
-HUGO_VERSION = "0.72.0"
+  HUGO_VERSION = "0.72.0"
 
 [context.branch-deploy.environment]
   HUGO_BASEURL = "/"
@@ -33,3 +33,12 @@ HUGO_VERSION = "0.72.0"
   to = "https://notes.shelbyspees.com/:splat"
   status = 301
   force = true
+
+[dev]
+  framework = "hugo"
+
+[functions]
+  directory = "netlify/functions"
+
+[[plugins]]
+  package = "./scripts/og-images"
