@@ -30,6 +30,12 @@ HUGO_VERSION = "0.72.0"
 
 [[redirects]]
   from = "https://notes.spees.dev/*"
+  to = "https://publish.obsidian.md/spees-notes/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "https://notes.spees.dev/*"
   to = "https://notes.shelbyspees.com/:splat"
   status = 301
   force = true
