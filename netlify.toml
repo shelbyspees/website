@@ -27,3 +27,8 @@ HUGO_VERSION = "0.72.0"
   to = "https://novaspees.netlify.app/:splat"
   status = 200
   force = true
+
+[[redirects]]
+  from = "/work"
+  to = "https://work.spees.dev"
+  status = 301
