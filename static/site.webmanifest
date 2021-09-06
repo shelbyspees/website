@@ -1,15 +1,19 @@
 {
-    "name": "shelbyspees",
-    "short_name": "shelbyspees",
+    "name": "spees.dev",
+    "short_name": "spees.dev",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
         }
     ],
-    "theme_color": "#64bda1",
-    "background_color": "#64bda1",
-    "start_url": "https://shelbyspees.com",
+    "theme_color": "#e7c8c8",
+    "background_color": "#e7c8c8",
     "display": "standalone"
 }
