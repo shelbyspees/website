@@ -8,7 +8,7 @@
   url: https://github.com/shelbyspees
 - name: get my speaker bio
   url: /bio
-- name: read my informal tech notes
-  url: https://notes.spees.dev
+# - name: read my informal tech notes
+#   url: https://notes.spees.dev
 - name: view my resume
   url: /resume
