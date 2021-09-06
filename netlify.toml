@@ -3,6 +3,9 @@ command = "git submodule update --init --recursive --depth=1 && hugo --minify"
 [build]
   publish = "public"
 
+[dev]
+  framework = "hugo"
+
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
 
