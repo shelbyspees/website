@@ -28,6 +28,12 @@ HUGO_VERSION = "0.72.0"
   status = 200
   force = true
 
+[[redirectes]]
+  from = "https://notes.spees.dev/*"
+  to = "https://https://publish-main.obsidian.md/spees/"
+  status = 301
+  force = true
+
 [[redirects]]
   from = "/work"
   to = "https://work.spees.dev"
