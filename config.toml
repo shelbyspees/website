@@ -23,8 +23,8 @@ googleAnalytics = "UA-178718117-1"
   mainSections = ["posts"]
   showReadMore = true
   gitUrl = "https://github.com/shelbyspees/website/commit/"
-  description = "Shelby Spees is a software engineer and DevOps advocate dedicated to improving access and equity in tech."
-  homeSubtitle = "Software Engineer and DevOps Advocate"
+  description = "Shelby Spees is a site reliability engineer and DevOps advocate dedicated to improving access and equity in tech."
+  homeSubtitle = "Site Reliability Engineer, DevOps Advocate, Dog Mom"
   # images = ["/twitter-card-large.png"]
   footerSocial = true
 
@@ -50,10 +50,6 @@ googleAnalytics = "UA-178718117-1"
   url = "https://www.linkedin.com/in/shelbyspees"
 
 [[params.social]]
-  name = "notion"
-  url = "https://notes.spees.dev"
-
-[[params.social]]
   name = "rss"
   url = "/posts/index.xml"
 
@@ -65,16 +61,16 @@ googleAnalytics = "UA-178718117-1"
   weight = 1
 
 [[menu.main]]
-  identifier = "nova"
-  name = "dog"
-  url = "/nova/"
-  weight = 3
-
-[[menu.main]]
   identifier = "about"
   name = "about"
   url = "/about/"
   weight = 5
+
+[[menu.main]]
+  identifier = "nova ↗"
+  name = "dog"
+  url = "https://nova.spees.dev"
+  weight = 3
 
 [markup.goldmark.renderer]
   unsafe = true
