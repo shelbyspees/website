@@ -1,5 +1,5 @@
 ---
-title: "An intro to intro linguistics"
+title: "an intro to intro linguistics"
 slug: intro-linguistics
 date: 2021-07-11T22:27:36-07:00
 images:
@@ -17,7 +17,7 @@ of the human experience.
 
 <!-- more -->
 
-## Appreciation
+## appreciation
 
 Last month in the US we had [Juneteenth](https://nmaahc.si.edu/blog-post/historical-legacy-juneteenth),
 and [President Biden signed an executive order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/18/a-proclamation-on-juneteenth-day-of-observance-2021/)
@@ -49,7 +49,7 @@ While I think linguistics is a relatively approachable subject,
 there are some fundamental ideas that I want to share
 before I start directing readers to scholarly work on Black English.
 
-## Linguistics what now?
+## linguistics what now?
 
 In my opinion, linguistics is a fairly approachable subject.
 It's a lot less abstract than, for example, high school math.
@@ -75,7 +75,7 @@ when I talk about linguistics with someone for the first time.
 While my formal linguistics education is about a decade out of date
 and I'm far from an expert, most of this should (hopefully) still apply.
 
-### Language is arbitrary
+### language is arbitrary
 
 By that I mean: there aren't specific sounds (or words or grammar structures)
 that are inherently connected to the thing they represent in a particular language.
@@ -102,7 +102,7 @@ which is why miscommunication is so common
 and why it can be helpful to define more formal rules
 in formal contexts.
 
-### We strive to describe
+### we strive to describe
 
 Most people's experience with grammar is a prescriptive one:
 
@@ -155,7 +155,7 @@ So remember: as descriptivists, we're approaching language study
 with curiosity, fascination, and appreciation
 rather than with judgement or criticism.
 
-## Stay tuned
+## stay tuned
 
 I'm going to stop here for now.
 
