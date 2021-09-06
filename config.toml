@@ -64,13 +64,13 @@ googleAnalytics = "UA-178718117-1"
   identifier = "about"
   name = "about"
   url = "/about/"
-  weight = 5
-
-[[menu.main]]
-  identifier = "nova ↗"
-  name = "dog"
-  url = "https://nova.spees.dev"
   weight = 3
+  
+[[menu.main]]
+  identifier = "nova"
+  name = "dog ↗"
+  url = "https://nova.spees.dev"
+  weight = 5
 
 [markup.goldmark.renderer]
   unsafe = true
