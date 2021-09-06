@@ -27,9 +27,3 @@ HUGO_VERSION = "0.72.0"
   to = "https://novaspees.netlify.app/:splat"
   status = 200
   force = true
-
-[[redirects]]
-  from = "https://notes.spees.dev/*"
-  to = "https://publish.obsidian.md/serve?url=notes.spees.dev/:splat"
-  status = 200
-  force = true
