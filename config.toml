@@ -24,7 +24,7 @@ googleAnalytics = "UA-178718117-1"
   showReadMore = true
   gitUrl = "https://github.com/shelbyspees/website/commit/"
   description = "Shelby Spees is a site reliability engineer and DevOps advocate dedicated to improving access and equity in tech."
-  homeSubtitle = "Site Reliability Engineer, DevOps Advocate, Dog Mom"
+  homeSubtitle = "site reliability engineer · devops advocate · dog mom"
   # images = ["/twitter-card-large.png"]
   footerSocial = true
 
@@ -65,7 +65,7 @@ googleAnalytics = "UA-178718117-1"
   name = "about"
   url = "/about/"
   weight = 3
-  
+
 [[menu.main]]
   identifier = "nova"
   name = "dog ↗"
