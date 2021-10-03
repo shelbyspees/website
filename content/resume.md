@@ -1,12 +1,12 @@
 ---
 title: "Resume"
 slug: resume
-summary: Shelby Spees is a software engineer and DevOps advocate
+summary: Shelby Spees is a site reliability engineer
   with experience developing software professionally since 2015.
   Read her resume.
 ---
 
-Software engineer and DevOps advocate
+Site Reliability Engineer
 with experience developing software professionally since 2015
 including libraries, build tooling, user-facing applications,
 and production web services.
@@ -17,8 +17,14 @@ Technologies used professionally:
 - Terraform, Chef, Ansible
 - CircleCI, TravisCI, Jenkins
 - AWS EC2, S3, RDS, Route53
+- OpenTelemetry
 
 ## Experience
+
+**Site Reliability Engineer**, September 2021 to present  
+Equinix Metal (remote)
+
+- New job! Wish me luck ♡
 
 **Developer Advocate**, March 2020 to June 2021  
 Honeycomb.io (remote)
