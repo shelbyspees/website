@@ -11,7 +11,7 @@ Hey you!
 Do you wanna subtly advocate for remote work accessibility
 in a way that can help a lot of people?
 
-Here's how you can help:
+Here's how:
 **Let people know when their audio quality sucks.**
 
 <!-- more -->
@@ -45,7 +45,7 @@ their voices come out of your laptop speakers and immediately get picked up agai
 **Mute your mic when you're not speaking.**
 Background noise is often introduced into your call by someone besides the current speaker,
 and they may not even realize that their mic is hot.
-If you can't get them to mute (maybe they left the mic hot before walking away from their computer),
+If you can't get them to mute (maybe they left the mic on before walking away from their computer),
 the Zoom meeting owner can mute them.
 
 **Don't use airpods or bluetooth earbuds as a mic.**
@@ -121,6 +121,12 @@ If hearing your own voice makes you cringe,
 But I'm going to gently ask you to suck it up and actually listen to yourself a few times.
 Do you notice any issues that can be solved with the above suggestions?
 Please give them a try!
+
+And if you're not sure (it can be hard to tell), there are more options:
+
+- on Mac, open up the Voice Memos app and record yourself for a bit longer
+- message a teammate or friend and ask if they can do a sound check with you
+  (you can even share this post!)
 
 ## systemic change
 
