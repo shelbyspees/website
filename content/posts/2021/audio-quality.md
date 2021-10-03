@@ -1,11 +1,10 @@
 ---
 title: "audio quality"
 slug: audio-quality
-date: 2021-08-19T16:50:50-07:00
-draft: true
-images:
+date: 2021-10-02T23:41:22-07:00
 tags:
-  - 
+  - work
+  - accessibility
 ---
 
 Hey you!
@@ -36,21 +35,39 @@ There's probably a specific reason you're on a call with this person in the firs
 
 Here are a few band-aid fixes that can help most people slightly improve their audio in the moment.
 
-**Turn off your mic when you're not speaking.**
-Often the person introducing background noise into your call isn't the person speaking or presenting, and they may not even realize that their mic is hot.
-If you can't get them to mute (maybe this person left the mic hot before walking away from their computer), Zoom meeting owners can mute them.
+**Use headphones.**
+Please use headphones!
+This protects your colleagues from the awful echo that occurs when
+their voices come out of your laptop speakers and immediately get picked up again by your mic.
+
+**Mute your mic when you're not speaking.**
+Even when you're using headphones, mute your mic.
+Often background noise is being introduced into your call by someone besides the current speaker,
+and they may not even realize that their mic is hot.
+If you can't get them to mute (maybe they left the mic hot before walking away from their computer),
+the Zoom meeting owner can mute them.
 
 **Don't use airpods or bluetooth earbuds as a mic.**
 Yes they're convenient, but they do a terrible job of picking up what you're saying.
 Even the built-in mic on most laptops is better than airpods.
 To fix this in Zoom: Change your audio input to "Macbook Pro Microphone"
 or whatever the equivalent is for your computer.
+You can still use your bluetooth earbuds for the output, though, that's fine!
+
+**Move your mic closer to your mouth.**
+Some people naturally project but many of us are more soft-spoken,
+especially if we're trying not to disrupt housemates or neighbors.
+Getting the mic in close physical proximity to the sound source (your mouth)
+will help your speech better overpower any background noise.
 
 **If you're cutting out, turn off video.**
 Oftentimes, audio quality drops because of bandwidth issues.
 Turning off your video means you're saving your connection all that uploading work,
 leaving much more room for your audio to come through at higher quality.
-Zoom also recently added a feature where you can block incoming video to free up some bandwidth.
+Zoom also recently added a feature where you can block incoming video to free up some bandwidth!
+You have to enable it from your account settings on the Zoom website.
+
+![Enable "Stop incoming video" feature. Allows meeting participants to turn off all incoming video feeds on their screen (does not effect other participants’ screens). To access this feature, click the view button at the top-right corner of your screen.](https://i.imgur.com/7uTCNyb.png)
 
 **Close doors and windows.**
 I used to live on a busy street so I get how hard it is to control for traffic noise.
@@ -60,18 +77,21 @@ If you have the luxury of being able to work in a room with a door that closes, 
 Your listeners will thank you.
 
 **Turn off fans, a/c, etc.**
-If you can't, move them away from your mic or move your mic/laptop away from the source.
+If you can't, move them away from your mic or move your mic/laptop away from the source (and toward your mouth!).
 Airflow sounds can come through super loud on mics, covering up your speaking with frustrating white noise.
-This is why [microphone windscreens]() are a thing.
+This is why [microphone windscreens](https://en.wikipedia.org/wiki/Microphone#Windscreens) are a thing.
 Of course, sometimes running Zoom can cause your laptop to heat up, making your fans start spinning in to try to cool it back down.
 It's not trivial to fix this in the space of a few minutes at the beginning of a call,
 but if you're running another application that tends to use a lot of resources (ahem, Docker for Mac),
 quitting that can give your computer a break.
 
-## testing your sound
+## testing your own sound
 
+Before you start critiquing other people's sound quality, it's probably worth checking in on your own.
 Zoom has a long [support article](https://support.zoom.us/hc/en-us/articles/201362283-Testing-computer-or-device-audio)
-detailing how to test your audio, but here's the short version for Mac users:
+detailing how to test your audio, but here's the short version for Mac users.
+
+Check your audio settings in Zoom:
 
 - open the Zoom app
 - hit `command` + `,` (comma) to open Zoom settings
@@ -79,67 +99,55 @@ detailing how to test your audio, but here's the short version for Mac users:
 - ensure your desired mic is selected in the dropdown
 - ensure your desired headphones are plugged in and selected in the dropdown
 
-cool, now we're gonna do two different tests.
-
-first: does Zoom hear you?
+Cool, now we're gonna do two different tests.
+First: Does Zoom hear you?
 
 - _without_ clicking the "Test Mic" button, talk into your mic
-- the bar thingy should fill up and go from red to green
+- the Input Level bar thingy should fill up and go from red to green
 
-second: how do you sound?
+![Zoom microphone settings showing low input level in a red color](https://i.imgur.com/hgnCW8e.png)
+
+![Zoom microphone settings showing higher input level in a green color](https://i.imgur.com/EPzEkkv.png)
+
+Second: How do you sound?
 
 - this time, click on the "Test Mic" button (only once!)
 - speak briefly into your mic
 - after a couple seconds, Zoom will automatically play back the recording
 
-If hearing your own voice makes you cringe, [you're not alone!](https://www.theguardian.com/science/2018/jul/12/the-real-reason-the-sound-of-your-own-voice-makes-you-cringe)
-But I'm going to gently ask you to suck it up and listen to yourself a few times.
-
-## upgrades
-
-With so much complexity involves in returning to offices or going hybrid,
-acoustics may not be front-of-mind for company leadership.
-
-If you're a remote worker, ask your manager about expensing the equipment and software I suggest here.
-
-If you regularly need to be heard and understood in meetings, classes,
-or any other speaking events, you need a dedicated mic.
-
-The [Blue Yeti](https://www.bluemic.com/en-us/products/yeti/)
-has become ubiquitous among tech folks who do regular speaking engagements,
-but you don't need a high-end podcast mic to sound better than the built-in mic on your laptop.
-Even a $20 USB mic will be an improvement over your laptop's mic.
-
-[Krisp.ai](https://krisp.ai) is a service that filters background noise during calls.
-What's especially great is that it works in both directions.
+If hearing your own voice makes you cringe,
+[you're not alone!](https://www.theguardian.com/science/2018/jul/12/the-real-reason-the-sound-of-your-own-voice-makes-you-cringe)
+But I'm going to gently ask you to suck it up and actually listen to yourself a few times.
+Do you notice any issues that can be solved with the above suggestions?
+Please give them a try!
 
 ## systemic change
 
-Of course, the biggest problem with remote work audio quality issues
-is that most people can't control their remote work environment.
-The majority of workers stuck at home because of the pandemic
-(as opposed to those who specifically chose a remote role)
+Now you can feel confident giving people feedback (lol!) on their audio quality.
+For folks in roles where you can expense a nicer mic, please encourage your colleagues to do the same.
+
+Still, while I could list a bunch of workstation upgrades you can make
+(and I may do so in another post), I want to emphasize the following point:
+**The biggest reason for audio quality issues is that most people can't control their remote work environment.**
+The majority of workers and students stuck at home because of the pandemic
+(as opposed to those who specifically chose a remote option)
 have to carry on meetings in noisy, distracting environments
-with minimal noise reduction
+with bare-bones audio equipment and zero acoustic treatment.
 
-## why do I care?
+Some teams may experience ongoing audio issues that won't be solved in the short term.
+In that case, you may need to pivot _away_ from video (and accompanying audio)
+and do more work over text or asyncronously.
+Thankfully, we live in the age of Google Docs, [Mural](https://www.mural.co),
+and other low-latency collaborative tools!
+Many of them are free!
 
-I have audio processing issues that I only started learning about in the past few years.
-They've actually been causing me issues since childhood,
-but I think :
-watching shows with headphones and/or subtitles,
-choosing quiet places to hang out with friends,
-chatting over text.
-In adulthood, however, I've been finding myself in more situations
-in which I need to listen carefully to what someone is saying
-over moderate background noise I can't control.
-Whether it's trying to have a conversation with my partner while walking next to car traffic,
-or trying to listen to a coworker explain some technical thing
-in an echoey open office with minimal acoustic treatment and several loud kitchen appliances.
+In any case, please say something.
+Let people know that it's hard to hear what they're saying.
+Let leadership know that bad audio quality is costing them,
+whether by making people repeating themselves
+or by risking critical communications getting misunderstood.
 
-It became really noticable in 2019 after my partner and I started dating.
-I ended up getting my hearing checked because I was that worried about it.
-Apparently I have excellent hearing 🤷
-Better than average for high pitches!
-It was a relief, but it wasn't until I learned about auditory processing disorders
-that my struggles made sense.
+At any rate, video conferencing isn't going away any time soon.
+Just like any other workspace issue we'd discuss—broken A/C, crappy wifi,
+poor ergonomics—audio quality is a part of our work environment.
+It may not be visible but by talking about it, we can let people know it's important.
