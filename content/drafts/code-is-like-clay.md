@@ -63,12 +63,9 @@ we should just collectively support each other making shit more maintainable.)
 Another use of the metaphor is this
 [blog post from 2017](https://www.upbeat.it/programming-languages-and-clay/).
 that uses the clay-hardening metaphor for frameworks
-(note: the post quotes [Robert Martin](),
-someone I don't exactly want to promote).
-
+(note: the post quotes someone I don't exactly want to promote).
 
 I also discovered a [startup in Brooklyn called Clay](https://www.clay.run).
-
 
 ## Why not let it harden?
 
@@ -107,14 +104,7 @@ Constantly adjusting our understanding.
 Constantly learning.
 
 
-
 When we treat out code like clay that we want to stay pliable,
-
-
-
-
-
-
 
 
 ## Not just code
@@ -122,7 +112,12 @@ When we treat out code like clay that we want to stay pliable,
 I was hesitant to use "code" in the metaphor.
 The catchiness of won me over.
 
+But this 100% applies to docs, webpages, videos,
+and any other knowledge that's been captured in a static format.
 
+For publications can't be updated in-place, including dates is critical.
+It would even be a great start if we starting marking documents as stale
+or otherwise highlighted the "last updated" attribute.
 
 ## Hooray for clay
 
