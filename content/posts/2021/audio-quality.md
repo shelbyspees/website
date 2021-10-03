@@ -14,11 +14,10 @@ in a way that can help a lot of people?
 Here's how you can help:
 **Let people know when their audio quality sucks.**
 
-It doesn't have to be a big diversion.
-Just drop a quick, specific heads-up.
-
 <!-- more -->
 
+It doesn't have to be a big diversion.
+Just drop a quick, specific heads-up.
 Here's a template for you:
 
 > "Hey just a heads up,
@@ -27,9 +26,12 @@ Here's a template for you:
 
 Now, most people will want to fix it in the moment.
 Don't stop them from trying one or two things.
-In the next section, I share some low-hanging-fruit fixes that are appropriate to suggest when it's worth taking a minute to improve audio quality.
-But it's easy to get sidetracked, so be sure to timebox the troubleshooting process.
-There's probably a specific reason you're on a call with this person in the first place and it sucks to have to reschedule.
+In the next section, I share some low-hanging-fruit fixes that are appropriate to suggest
+when it's worth taking a minute to improve audio quality.
+
+But it's easy to get sidetracked by troubleshooting!
+Keep an eye on the clock—there's probably a reason you're on this call in the first place.
+You don't want to have to reschedule.
 
 ## troubleshooting in the moment
 
@@ -41,8 +43,7 @@ This protects your colleagues from the awful echo that occurs when
 their voices come out of your laptop speakers and immediately get picked up again by your mic.
 
 **Mute your mic when you're not speaking.**
-Even when you're using headphones, mute your mic.
-Often background noise is being introduced into your call by someone besides the current speaker,
+Background noise is often introduced into your call by someone besides the current speaker,
 and they may not even realize that their mic is hot.
 If you can't get them to mute (maybe they left the mic hot before walking away from their computer),
 the Zoom meeting owner can mute them.
@@ -61,10 +62,10 @@ Getting the mic in close physical proximity to the sound source (your mouth)
 will help your speech better overpower any background noise.
 
 **If you're cutting out, turn off video.**
-Oftentimes, audio quality drops because of bandwidth issues.
+Audio quality can drop because of bandwidth issues.
 Turning off your video means you're saving your connection all that uploading work,
 leaving much more room for your audio to come through at higher quality.
-Zoom also recently added a feature where you can block incoming video to free up some bandwidth!
+Zoom also recently added a feature where you can block _incoming_ video to free up even more bandwidth!
 You have to enable it from your account settings on the Zoom website.
 
 ![Enable "Stop incoming video" feature. Allows meeting participants to turn off all incoming video feeds on their screen (does not effect other participants’ screens). To access this feature, click the view button at the top-right corner of your screen.](https://i.imgur.com/7uTCNyb.png)
@@ -128,7 +129,9 @@ For folks in roles where you can expense a nicer mic, please encourage your coll
 
 Still, while I could list a bunch of workstation upgrades you can make
 (and I may do so in another post), I want to emphasize the following point:
-**The biggest reason for audio quality issues is that most people can't control their remote work environment.**
+
+**The biggest reason for audio quality issues during calls is that most people can't control their remote work environment.**
+
 The majority of workers and students stuck at home because of the pandemic
 (as opposed to those who specifically chose a remote option)
 have to carry on meetings in noisy, distracting environments
@@ -136,7 +139,7 @@ with bare-bones audio equipment and zero acoustic treatment.
 
 Some teams may experience ongoing audio issues that won't be solved in the short term.
 In that case, you may need to pivot _away_ from video (and accompanying audio)
-and do more work over text or asyncronously.
+and do more work over text or asynchronously.
 Thankfully, we live in the age of Google Docs, [Mural](https://www.mural.co),
 and other low-latency collaborative tools!
 Many of them are free!
@@ -147,7 +150,7 @@ Let leadership know that bad audio quality is costing them,
 whether by making people repeating themselves
 or by risking critical communications getting misunderstood.
 
-At any rate, video conferencing isn't going away any time soon.
+Video conferencing isn't going away any time soon.
 Just like any other workspace issue we'd discuss—broken A/C, crappy wifi,
 poor ergonomics—audio quality is a part of our work environment.
-It may not be visible but by talking about it, we can let people know it's important.
+It may not be visible, but by talking about it we can let people know it's important.
