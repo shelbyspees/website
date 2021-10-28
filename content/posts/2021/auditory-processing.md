@@ -59,7 +59,7 @@ Another thing I struggle with is understanding dialog when watching movies at ho
 
 I was able to hear okay with just a soundbar at my old apartment, but this new place is rough.
 
-{{% tweet 1452438175264100354 %}}
+{{% tweet-center 1452438175264100354 %}}
 
 My issues with echo really stood out when I was moving because of how hard I needed to strain to understand people in the empty, echoey apartment.
 It's hard to tell whether it's just a heightened awareness or if my auditory processing is actually getting worse, but I find any amount of echo or reverberation in a room to be distracting now.
