@@ -76,4 +76,6 @@ Fingers crossed that they make a difference 🤞🏼.
 
 So yeah, please bear with me if I ask you to repeat yourself.
 Don't be surprised if I give an unsatisfying answer to your question during a meeting, but then a few minutes after the meeting ends I'm sending you paragraphs over Slack.
-And please please please make sure your videos are captioned and any audio-only content is published with transcripts.
+Please please please make sure your videos are captioned and any audio-only content is published with transcripts.
+Finally, you can help by [pointing out people's audio quality issues](/posts/2021/audio-quality) and taking steps to make your own audio suck less.
+Sound issues that are mildly annoying for you can be debilitating for people like me.
