@@ -8,7 +8,8 @@ enableGitInfo = true
 googleAnalytics = "UA-178718117-1"
 
 [permalinks]
-  posts = "/:year/:month/:day/:slug/"
+  posts = "/:slug/"
+  # posts = "/:year/:month/:day/:slug/"
 
 [author]
   name = "Shelby Spees"
