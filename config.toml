@@ -70,7 +70,7 @@ googleAnalytics = "UA-178718117-1"
 [[menu.main]]
   identifier = "nova"
   name = "dog ↗"
-  url = "https://nova.spees.dev"
+  url = "https://nova.spees.dog"
   weight = 5
 
 [markup.goldmark.renderer]
