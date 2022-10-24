@@ -26,7 +26,7 @@ googleAnalytics = "UA-178718117-1"
   gitUrl = "https://github.com/shelbyspees/website/commit/"
   description = "Shelby Spees is a site reliability engineer and DevOps advocate dedicated to improving access and equity in tech."
   homeSubtitle = "site reliability engineer · devops advocate · dog mom"
-  images = ["https://ik.imagekit.io/spees/heart_2r5Z23Y4ny0.png?updatedAt=1633245483713&ik-s=5ae229e7d90f13a0d188e7e766997c0acd09f858"]
+  images = ["https://ik.imagekit.io/spees/blog/blog_opengraph_card_NilSEeTVQ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666632878017"]
   footerSocial = true
 
 [params.logo]
