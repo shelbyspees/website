@@ -24,7 +24,24 @@ Technologies used professionally:
 **Site Reliability Engineer**, September 2021 to present  
 Equinix Metal (remote)
 
-- New job! Wish me luck ♡
+Applied Resilience Engineering team, May 2022 to present
+
+- Onboarded teams within the Platform Engineering Services org to deploy OpenTelemetry tracing and start using Honeycomb
+- Documented onboarding steps with recommended starter configurations to simplify the onboarding process for service teams using Kubernetes
+- Delivered live training on OpenTelemetry and Honeycomb using production trace data
+- Developed standardized tracing attributes to streamline querying across related microservices and to simplify data organization among many lower environments
+
+Equinix Metal SRE team, September 2021 to April 2022
+
+- Developed Equinix Metal-specific centralized configuration to streamline OpenTelemetry data pipeline deployment for a number of services, including edge services hosted in 70+ Kubernetes clusters
+- Added custom instrumentation to Rails monolith to track domain-specific attributes on customer traffic including Metal instance and hardware metadata
+- Authored extensive internal documentation, enabling developers to deploy their own telemetry pipelines and add custom instrumentation to their own services
+- Delivered live training on observability topics including tracing, custom instrumentation, and service level objectives
+- Supported engineers across multiple teams via one-on-one debugging and knowledge-transfer sessions over Slack and Zoom
+- Authored blog post: [OpenTelemetry: What’s a Collector and Why Would I Want One?](https://deploy.equinix.com/blog/opentelemetry-whats-a-collector-and-why-would-i-want-one/)
+- Co-authored blog post: [Leveraging OpenTelemetry Tracing to Tune Our Rails Monolith](https://deploy.equinix.com/blog/leveraging-opentelemetry-tracing-to-tune-our-rails-monolith/)
+- Delivered talk at SREcon 2022 Americas: [Tracing Bare Metal with OpenTelemetry](https://www.usenix.org/conference/srecon22americas/presentation/tobey)
+- Delivered talk at SLOconf 2022: [Intro to Tracing-Based SLOs](https://www.sloconf.com/sloconf-2022#shelby-spees)
 
 **Developer Advocate**, March 2020 to June 2021  
 Honeycomb.io (remote)
